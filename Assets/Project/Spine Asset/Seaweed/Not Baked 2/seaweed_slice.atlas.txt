@@ -1,0 +1,146 @@
+
+seaweed_slice.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 258
+  size: 249, 244
+  orig: 249, 244
+  offset: 0, 0
+  index: -1
+lv1 a
+  rotate: true
+  xy: 366, 19
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+lv1 b
+  rotate: false
+  xy: 428, 262
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+lv1 c
+  rotate: true
+  xy: 353, 119
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+lv1 d
+  rotate: false
+  xy: 449, 317
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+lv2 a
+  rotate: false
+  xy: 253, 261
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+lv2 b
+  rotate: false
+  xy: 343, 315
+  size: 104, 54
+  orig: 104, 54
+  offset: 0, 0
+  index: -1
+lv2 c
+  rotate: false
+  xy: 444, 373
+  size: 54, 129
+  orig: 54, 129
+  offset: 0, 0
+  index: -1
+lv2 d
+  rotate: true
+  xy: 2, 15
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+lv2 e
+  rotate: true
+  xy: 166, 5
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+lv2 f
+  rotate: false
+  xy: 104, 2
+  size: 60, 117
+  orig: 60, 117
+  offset: 0, 0
+  index: -1
+lv3 a
+  rotate: false
+  xy: 93, 121
+  size: 96, 135
+  orig: 96, 135
+  offset: 0, 0
+  index: -1
+lv3 b
+  rotate: true
+  xy: 191, 120
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1
+lv3 c
+  rotate: true
+  xy: 278, 113
+  size: 146, 73
+  orig: 146, 73
+  offset: 0, 0
+  index: -1
+lv3 d
+  rotate: false
+  xy: 2, 94
+  size: 89, 162
+  orig: 89, 162
+  offset: 0, 0
+  index: -1
+lv3 e
+  rotate: false
+  xy: 253, 350
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+lv3 f
+  rotate: false
+  xy: 226, 37
+  size: 138, 74
+  orig: 138, 74
+  offset: 0, 0
+  index: -1
+lv3 g
+  rotate: true
+  xy: 353, 161
+  size: 152, 73
+  orig: 152, 73
+  offset: 0, 0
+  index: -1
+lv3 h
+  rotate: false
+  xy: 343, 371
+  size: 99, 131
+  orig: 99, 131
+  offset: 0, 0
+  index: -1
+shadow_2
+  rotate: false
+  xy: 366, 68
+  size: 49, 49
+  orig: 51, 51
+  offset: 1, 1
+  index: -1

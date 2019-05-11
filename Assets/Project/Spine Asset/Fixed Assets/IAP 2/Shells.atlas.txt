@@ -1,0 +1,41 @@
+
+Shells.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 14
+  rotate: false
+  xy: 2, 207
+  size: 390, 299
+  orig: 390, 299
+  offset: 0, 0
+  index: -1
+glow 1
+  rotate: false
+  xy: 394, 298
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+glow 2
+  rotate: false
+  xy: 222, 110
+  size: 115, 95
+  orig: 115, 95
+  offset: 0, 0
+  index: -1
+glow 3
+  rotate: true
+  xy: 394, 380
+  size: 126, 112
+  orig: 126, 112
+  offset: 0, 0
+  index: -1
+glow 4
+  rotate: false
+  xy: 2, 2
+  size: 218, 203
+  orig: 218, 203
+  offset: 0, 0
+  index: -1

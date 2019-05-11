@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:07d19e204fdd7c99fac0ec71c07997bf:7b6fc1eb1a63f134e7670aa706ccbc0e:13ec6ab308aee09944c5a0b251aa68b0$
+#
+:format=40000
+:texture=BG_Menu.png
+:size=2048x4096
+:pivotpoints=enabled
+
+BG1;1;1814;1441;2281;0.5;0.5; 10;1441;0;3;0;3;1397;0;1400;0;1657;3;1661;0;1958;0;2025;3;2281;1441;2281; 8;7;8;9;6;7;9;5;6;9;2;5;9;4;2;3;4;5;2;0;2;9;0;1;2

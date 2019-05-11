@@ -1,0 +1,661 @@
+
+snowy fish_slicing3 revised.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snowyfish_Level01_Eyeball_Left
+  rotate: false
+  xy: 366, 348
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Snowyfish_Level02_Eyeball_Left
+  rotate: false
+  xy: 366, 348
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Snowyfish_Level01_Iris_Right
+  rotate: true
+  xy: 446, 448
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+Snowyfish_Level02_Iris_Left
+  rotate: false
+  xy: 446, 383
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Snowyfish_Level02_Iris_Right
+  rotate: true
+  xy: 446, 7
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+Snowyfish_Level04_Body
+  rotate: false
+  xy: 2, 200
+  size: 180, 309
+  orig: 180, 309
+  offset: 0, 0
+  index: -1
+Snowyfish_Level05_Body
+  rotate: true
+  xy: 135, 18
+  size: 180, 309
+  orig: 180, 309
+  offset: 0, 0
+  index: -1
+Snowyfish_Level05_Eyeball_Left
+  rotate: false
+  xy: 446, 135
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Snowyfish_Level06_Eyeball_Left
+  rotate: false
+  xy: 446, 135
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Snowyfish_Level07_Eyeball_Left
+  rotate: false
+  xy: 446, 135
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Snowyfish_Level05_Eyeball_Right
+  rotate: false
+  xy: 446, 70
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Snowyfish_Level06_Eyeball_Right
+  rotate: false
+  xy: 446, 70
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Snowyfish_Level07_Eyeball_Right
+  rotate: false
+  xy: 446, 70
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+Snowyfish_Level05_Nose
+  rotate: true
+  xy: 135, 2
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Snowyfish_Level05_Tail
+  rotate: false
+  xy: 366, 428
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+Snowyfish_Level06_Body
+  rotate: false
+  xy: 184, 200
+  size: 180, 309
+  orig: 180, 309
+  offset: 0, 0
+  index: -1
+Snowyfish_Level06_Nose
+  rotate: true
+  xy: 446, 363
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+Snowyfish_Level07_Nose
+  rotate: false
+  xy: 479, 299
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Snowyfish_Level08_Nose
+  rotate: false
+  xy: 479, 299
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Snowyfish_Level09_Nose
+  rotate: false
+  xy: 479, 299
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+Snowyfish_Level09_Fin_Left
+  rotate: true
+  xy: 366, 200
+  size: 146, 111
+  orig: 146, 111
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Nose
+  rotate: false
+  xy: 479, 337
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Scarf
+  rotate: false
+  xy: 2, 7
+  size: 131, 191
+  orig: 131, 191
+  offset: 0, 0
+  index: -1
+
+snowy fish_slicing3 revised2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snowyfish_Level03_Fin_Left
+  rotate: false
+  xy: 405, 30
+  size: 102, 71
+  orig: 102, 71
+  offset: 0, 0
+  index: -1
+Snowyfish_Level05_Iris_Left
+  rotate: true
+  xy: 313, 150
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+Snowyfish_Level05_Iris_Right
+  rotate: false
+  xy: 313, 98
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Snowyfish_Level06_Tail
+  rotate: false
+  xy: 313, 2
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+Snowyfish_Level07_Tail
+  rotate: false
+  xy: 313, 2
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+Snowyfish_Level07_Body
+  rotate: false
+  xy: 2, 200
+  size: 180, 309
+  orig: 180, 309
+  offset: 0, 0
+  index: -1
+Snowyfish_Level07_Fin_Left
+  rotate: false
+  xy: 366, 409
+  size: 137, 100
+  orig: 137, 100
+  offset: 0, 0
+  index: -1
+Snowyfish_Level07_Fin_Right
+  rotate: false
+  xy: 366, 307
+  size: 137, 100
+  orig: 137, 100
+  offset: 0, 0
+  index: -1
+Snowyfish_Level08_Body
+  rotate: true
+  xy: 2, 18
+  size: 180, 309
+  orig: 180, 309
+  offset: 0, 0
+  index: -1
+Snowyfish_Level08_Fin_Left
+  rotate: false
+  xy: 366, 205
+  size: 137, 100
+  orig: 137, 100
+  offset: 0, 0
+  index: -1
+Snowyfish_Level08_Fin_Right
+  rotate: false
+  xy: 366, 103
+  size: 137, 100
+  orig: 137, 100
+  offset: 0, 0
+  index: -1
+Snowyfish_Level09_Body
+  rotate: false
+  xy: 184, 200
+  size: 180, 309
+  orig: 180, 309
+  offset: 0, 0
+  index: -1
+
+snowy fish_slicing3 revised3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snowyfish_Level01_Fin_Left
+  rotate: false
+  xy: 402, 3
+  size: 86, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+Snowyfish_Level02_Body
+  rotate: true
+  xy: 184, 341
+  size: 169, 309
+  orig: 169, 309
+  offset: 0, 0
+  index: -1
+Snowyfish_Level03_Body
+  rotate: true
+  xy: 184, 170
+  size: 169, 309
+  orig: 169, 309
+  offset: 0, 0
+  index: -1
+Snowyfish_Level04_Fin_Left
+  rotate: false
+  xy: 402, 72
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+Snowyfish_Level05_Fin_Left
+  rotate: false
+  xy: 402, 72
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+Snowyfish_Level06_Fin_Left
+  rotate: false
+  xy: 402, 72
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+Snowyfish_Level09_Fin_Right
+  rotate: true
+  xy: 289, 23
+  size: 145, 111
+  orig: 145, 111
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Body
+  rotate: false
+  xy: 2, 201
+  size: 180, 309
+  orig: 180, 309
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Fin_Left
+  rotate: true
+  xy: 176, 22
+  size: 146, 111
+  orig: 146, 111
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Tail
+  rotate: true
+  xy: 2, 2
+  size: 166, 172
+  orig: 166, 172
+  offset: 0, 0
+  index: -1
+
+snowy fish_slicing3 revised4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snowyfish_Level01_Body
+  rotate: false
+  xy: 2, 202
+  size: 169, 304
+  orig: 169, 304
+  offset: 0, 0
+  index: -1
+Snowyfish_Level01_Eyeball_Right
+  rotate: false
+  xy: 286, 262
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Snowyfish_Level02_Eyeball_Right
+  rotate: false
+  xy: 286, 262
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Snowyfish_Level01_Fin_Right
+  rotate: false
+  xy: 120, 29
+  size: 86, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+Snowyfish_Level01_Iris_Left
+  rotate: false
+  xy: 266, 64
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Snowyfish_Level01_Tail
+  rotate: false
+  xy: 261, 126
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Snowyfish_Level02_Tail
+  rotate: false
+  xy: 261, 126
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Snowyfish_Level03_Tail
+  rotate: false
+  xy: 261, 126
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Snowyfish_Level04_Tail
+  rotate: false
+  xy: 261, 126
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Snowyfish_Level02_Fin_Left
+  rotate: true
+  xy: 120, 98
+  size: 102, 66
+  orig: 102, 66
+  offset: 0, 0
+  index: -1
+Snowyfish_Level02_Fin_Right
+  rotate: false
+  xy: 301, 342
+  size: 102, 66
+  orig: 102, 66
+  offset: 0, 0
+  index: -1
+Snowyfish_Level03_Eyeball_Left
+  rotate: false
+  xy: 366, 270
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Snowyfish_Level04_Eyeball_Left
+  rotate: false
+  xy: 366, 270
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Snowyfish_Level03_Eyeball_Right
+  rotate: false
+  xy: 286, 190
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Snowyfish_Level04_Eyeball_Right
+  rotate: false
+  xy: 286, 190
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Snowyfish_Level03_Fin_Right
+  rotate: true
+  xy: 188, 124
+  size: 102, 71
+  orig: 102, 71
+  offset: 0, 0
+  index: -1
+Snowyfish_Level03_Iris_Left
+  rotate: false
+  xy: 328, 68
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Snowyfish_Level03_Iris_Right
+  rotate: false
+  xy: 208, 2
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+Snowyfish_Level04_Fin_Right
+  rotate: false
+  xy: 301, 410
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+Snowyfish_Level05_Fin_Right
+  rotate: false
+  xy: 301, 410
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+Snowyfish_Level06_Fin_Right
+  rotate: false
+  xy: 301, 410
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+Snowyfish_Level04_Iris_Left
+  rotate: true
+  xy: 410, 363
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+Snowyfish_Level04_Iris_Right
+  rotate: false
+  xy: 438, 246
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Snowyfish_Level06_Iris_Left
+  rotate: true
+  xy: 366, 220
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+Snowyfish_Level06_Iris_Right
+  rotate: true
+  xy: 366, 220
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+Snowyfish_Level07_Iris_Left
+  rotate: false
+  xy: 420, 196
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Snowyfish_Level07_Iris_Right
+  rotate: false
+  xy: 420, 196
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Snowyfish_Level08_Eyeball_Left
+  rotate: false
+  xy: 266, 5
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Snowyfish_Level09_Eyeball_Left
+  rotate: false
+  xy: 266, 5
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Eyeball_Left
+  rotate: false
+  xy: 266, 5
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Snowyfish_Level08_Eyeball_Right
+  rotate: false
+  xy: 438, 304
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Snowyfish_Level09_Eyeball_Right
+  rotate: false
+  xy: 438, 304
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Eyeball_Right
+  rotate: false
+  xy: 438, 304
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Snowyfish_Level08_Iris_Left
+  rotate: false
+  xy: 383, 151
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Snowyfish_Level08_Iris_Right
+  rotate: false
+  xy: 383, 151
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Snowyfish_Level08_Tail
+  rotate: false
+  xy: 173, 375
+  size: 126, 131
+  orig: 126, 131
+  offset: 0, 0
+  index: -1
+Snowyfish_Level09_Tail
+  rotate: false
+  xy: 173, 375
+  size: 126, 131
+  orig: 126, 131
+  offset: 0, 0
+  index: -1
+Snowyfish_Level09_Iris_Left
+  rotate: false
+  xy: 328, 21
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Snowyfish_Level09_Iris_Right
+  rotate: false
+  xy: 328, 21
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Snowyfish_Level09_Scarf
+  rotate: false
+  xy: 2, 31
+  size: 116, 169
+  orig: 116, 169
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Fin_Right
+  rotate: true
+  xy: 173, 228
+  size: 145, 111
+  orig: 145, 111
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Finacc_Left
+  rotate: false
+  xy: 325, 127
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Finacc_Right
+  rotate: false
+  xy: 208, 61
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Iris_Left
+  rotate: false
+  xy: 375, 21
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Iris_Right
+  rotate: false
+  xy: 375, 21
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Snowyfish_Level10_Star
+  rotate: false
+  xy: 410, 419
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1

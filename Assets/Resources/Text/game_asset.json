@@ -1,0 +1,588 @@
+{
+	"data":[
+		{
+			"asset_code":"default",
+			"asset_path":"Prefab/Default Prefab"
+		},
+		{
+			"asset_code":"seaweed_01",
+			"asset_path":"Prefab/Prefab Seaweed"
+		},
+		{
+			"asset_code":"seaweed_02",
+			"asset_path":"Prefab/Prefab Anemone"
+		},
+		{
+			"asset_code":"obstacle_01",
+			"asset_path":"Prefab/Prefab Obstacle 1"
+		},
+		{
+			"asset_code":"obstacle_02",
+			"asset_path":"Prefab/Prefab Obstacle 2"
+		},
+		{
+			"asset_code":"obstacle_03",
+			"asset_path":"Prefab/Prefab Obstacle 3"
+		},
+		{
+			"asset_code":"obstacle_04",
+			"asset_path":"Prefab/Prefab Obstacle 4"
+		},
+		{
+			"asset_code":"urchin_01",
+			"asset_path":"Prefab/Prefab Urchin"
+		},
+		{
+			"asset_code":"food_pellet",
+			"asset_path":"Prefab/Food Pellet"
+		},
+		{
+			"asset_code":"buff_2",
+			"asset_path":"Prefab/Buff Exp"
+		},
+		{
+			"asset_code":"buff_2_preview",
+			"asset_path":"Sprite/Buff/buff_exp"
+		},
+		{
+			"asset_code":"buff_3",
+			"asset_path":"Prefab/Buff Invisible"
+		},
+		{
+			"asset_code":"buff_1",
+			"asset_path":"Prefab/Buff Invulnerable"
+		},
+		{
+			"asset_code":"buff_4",
+			"asset_path":"Prefab/Buff Speed"
+		},
+		{
+			"asset_code":"buff_4_preview",
+			"asset_path":"Sprite/Buff/buff_speed"
+		},
+		{
+			"asset_code":"buff_5",
+			"asset_path":"Prefab/Buff Invulnerable"
+		},
+		{
+			"asset_code":"buff_6",
+			"asset_path":"Prefab/Buff Gold"
+		},
+		{
+			"asset_code":"g_border",
+			"asset_path":"Prefab/Tiles/Map_Border"
+		},
+		{
+			"asset_code":"g_corner",
+			"asset_path":"Prefab/Tiles/Map_Corner"
+		},
+		{
+			"asset_code":"g_00",
+			"asset_path":"Prefab/Tiles/Tile Map 00"
+		},
+		{
+			"asset_code":"g_01",
+			"asset_path":"Prefab/Tiles/Tile Map 01"
+		},
+		{
+			"asset_code":"g_02",
+			"asset_path":"Prefab/Tiles/Tile Map 02"
+		},
+		{
+			"asset_code":"g_03",
+			"asset_path":"Prefab/Tiles/Tile Map 03"
+		},
+		{
+			"asset_code":"g_04",
+			"asset_path":"Prefab/Tiles/Tile Map 04"
+		},
+		{
+			"asset_code":"g_05",
+			"asset_path":"Prefab/Tiles/Tile Map 05"
+		},
+		{
+			"asset_code":"g_06",
+			"asset_path":"Prefab/Tiles/Tile Map 06"
+		},
+		{
+			"asset_code":"g_07",
+			"asset_path":"Prefab/Tiles/Tile Map 07"
+		},
+		{
+			"asset_code":"g_08",
+			"asset_path":"Prefab/Tiles/Tile Map 08"
+		},
+		{
+			"asset_code":"g_09",
+			"asset_path":"Prefab/Tiles/Tile Map 09"
+		},
+		{
+			"asset_code":"g_10",
+			"asset_path":"Prefab/Tiles/Tile Map 10"
+		},
+		{
+			"asset_code":"g_11",
+			"asset_path":"Prefab/Tiles/Tile Map 11"
+		},
+		{
+			"asset_code":"g_12",
+			"asset_path":"Prefab/Tiles/Tile Map 12"
+		},
+		{
+			"asset_code":"g_13",
+			"asset_path":"Prefab/Tiles/Tile Map 13"
+		},
+		{
+			"asset_code":"g_14",
+			"asset_path":"Prefab/Tiles/Tile Map 14"
+		},
+		{
+			"asset_code":"g_15",
+			"asset_path":"Prefab/Tiles/Tile Map 15"
+		},
+		{
+			"asset_code":"g_16",
+			"asset_path":"Prefab/Tiles/Tile Map 16"
+		},
+		{
+			"asset_code":"g_18",
+			"asset_path":"Prefab/Tiles/Tile Map 18"
+		},
+		{
+			"asset_code":"g_19",
+			"asset_path":"Prefab/Tiles/Tile Map 19"
+		},
+		{
+			"asset_code":"g_20",
+			"asset_path":"Prefab/Tiles/Tile Map 20"
+		},
+		{
+			"asset_code":"g_21",
+			"asset_path":"Prefab/Tiles/Tile Map 21"
+		},
+		{
+			"asset_code":"g_22",
+			"asset_path":"Prefab/Tiles/Tile Map 22"
+		},
+		{
+			"asset_code":"g_23",
+			"asset_path":"Prefab/Tiles/Tile Map 23"
+		},
+		{
+			"asset_code":"g_24",
+			"asset_path":"Prefab/Tiles/Tile Map 24"
+		},
+		{
+			"asset_code":"g_25",
+			"asset_path":"Prefab/Tiles/Tile Map 25"
+		},
+		{
+			"asset_code":"g_26",
+			"asset_path":"Prefab/Tiles/Tile Map 26"
+		},
+		{
+			"asset_code":"g_27",
+			"asset_path":"Prefab/Tiles/Tile Map 27"
+		},
+		{
+			"asset_code":"g_28",
+			"asset_path":"Prefab/Tiles/Tile Map 28"
+		},
+		{
+			"asset_code":"g_29",
+			"asset_path":"Prefab/Tiles/Tile Map 29"
+		},
+		{
+			"asset_code":"g_30",
+			"asset_path":"Prefab/Tiles/Tile Map 30"
+		},
+		{
+			"asset_code":"g_31",
+			"asset_path":"Prefab/Tiles/Tile Map 31"
+		},
+		{
+			"asset_code":"g_32",
+			"asset_path":"Prefab/Tiles/Tile Map 32"
+		},
+		{
+			"asset_code":"g_33",
+			"asset_path":"Prefab/Tiles/Tile Map 33"
+		},
+		{
+			"asset_code":"g_34",
+			"asset_path":"Prefab/Tiles/Tile Map 34"
+		},
+		{
+			"asset_code":"g_35",
+			"asset_path":"Prefab/Tiles/Tile Map 35"
+		},
+		{
+			"asset_code":"g_36",
+			"asset_path":"Prefab/Tiles/Tile Map 36"
+		},
+		{
+			"asset_code":"mf_hide_01",
+			"asset_path":"Prefab/Map Feature/Hiding Anemone"
+		},
+		{
+			"asset_code":"mf_hide_02",
+			"asset_path":"Prefab/Map Feature/Hiding Seaweed"
+		},
+		{
+			"asset_code":"mf_hide_03",
+			"asset_path":"Prefab/Map Feature/Hiding Coral Pink"
+		},
+		{
+			"asset_code":"mf_hide_04",
+			"asset_path":"Prefab/Map Feature/Hiding Coral Purple"
+		},
+		{
+			"asset_code":"mf_hide_05",
+			"asset_path":"Prefab/Map Feature/Hiding Coral Yellow"
+		},
+		{
+			"asset_code":"mf_hide_c",
+			"asset_path":"Prefab/Map Feature/Hiding Place C"
+		},
+		{
+			"asset_code":"mf_hide_i",
+			"asset_path":"Prefab/Map Feature/Hiding Place I"
+		},
+		{
+			"asset_code":"mf_hide_l",
+			"asset_path":"Prefab/Map Feature/Hiding Place L"
+		},
+		{
+			"asset_code":"mf_hide_plus",
+			"asset_path":"Prefab/Map Feature/Hiding Place Plus"
+		},
+		{
+			"asset_code":"mf_hide_square",
+			"asset_path":"Prefab/Map Feature/Hiding Place Square"
+		},
+		{
+			"asset_code":"mf_kill_01",
+			"asset_path":"Prefab/Map Feature/Kill Urchin"
+		},
+		{
+			"asset_code":"mf_obs_01",
+			"asset_path":"Prefab/Map Feature/Obstacle Coral"
+		},
+		{
+			"asset_code":"s_01",
+			"asset_path":"Prefab/Spawner/Spawner Food"
+		},
+		{
+			"asset_code":"s_02",
+			"asset_path":"Prefab/Spawner/Spawner Buff"
+		},
+		{
+			"asset_code":"s_03",
+			"asset_path":"Prefab/Spawner/Spawner Food Line"
+		},
+		{
+			"asset_code":"s_04",
+			"asset_path":"Prefab/Spawner/Spawner Buff Line"
+		},
+		{
+			"asset_code":"squid",
+			"asset_path":"Prefab/Predator/Predator Giant Squid"
+		},
+		{
+			"asset_code":"shark",
+			"asset_path":"Prefab/Predator/Predator Shark"
+		},
+		{
+			"asset_code":"tiny_pouch",
+			"asset_path":"Prefab/IAP/tiny_pouch"
+		},
+		{
+			"asset_code":"small_pouch",
+			"asset_path":"Prefab/IAP/small_pouch"
+		},
+		{
+			"asset_code":"medium_pouch",
+			"asset_path":"Prefab/IAP/medium_pouch"
+		},
+		{
+			"asset_code":"large_pouch",
+			"asset_path":"Prefab/IAP/large_pouch"
+		},
+		{
+			"asset_code":"huge_pouch",
+			"asset_path":"Prefab/IAP/huge_pouch"
+		},
+		{
+			"asset_code":"no_ads",
+			"asset_path":"Sprite/IAP/AD_Remove_small"
+		},
+		{
+			"asset_code":"xmas_bundle_2016",
+			"asset_path":"Sprite/IAP/xmas_bundle_2016"
+		},
+		{
+			"asset_code":"nemo",
+			"asset_path":"Prefab/Fishes/Fish Prefab Nemo"
+		},
+		{
+			"asset_code":"nemo_lv1",
+			"asset_path":"Sprite/Fish/Min Level/clown"
+		},
+		{
+			"asset_code":"nemo_lv10",
+			"asset_path":"Sprite/Fish/Max Level/clown"
+		},
+		{
+			"asset_code":"nemo_colorSprite",
+			"asset_path":"Sprite/ColorBase/color1"
+		},
+		{
+			"asset_code":"nemo_gold",
+			"asset_path":"Prefab/Fishes/Fish Prefab Nemo Gold"
+		},
+		{
+			"asset_code":"nemo_gold_lv1",
+			"asset_path":"Sprite/Fish/Min Level/clown_gold"
+		},
+		{
+			"asset_code":"nemo_gold_lv10",
+			"asset_path":"Sprite/Fish/Max Level/clown_gold"
+		},
+		{
+			"asset_code":"nemo_gold_colorSprite",
+			"asset_path":"Sprite/ColorBase/color_gold"
+		},
+		{
+			"asset_code":"nemo_silver",
+			"asset_path":"Prefab/Fishes/Fish Prefab Nemo Silver"
+		},
+		{
+			"asset_code":"nemo_silver_lv1",
+			"asset_path":"Sprite/Fish/Min Level/clown_silver"
+		},
+		{
+			"asset_code":"nemo_silver_lv10",
+			"asset_path":"Sprite/Fish/Max Level/clown_silver"
+		},
+		{
+			"asset_code":"nemo_silver_colorSprite",
+			"asset_path":"Sprite/ColorBase/color4"
+		},
+		{
+			"asset_code":"dory",
+			"asset_path":"Prefab/Fishes/Fish Prefab Dory"
+		},
+		{
+			"asset_code":"dory_lv1",
+			"asset_path":"Sprite/Fish/Min Level/bluetang"
+		},
+		{
+			"asset_code":"dory_lv10",
+			"asset_path":"Sprite/Fish/Max Level/bluetang"
+		},
+		{
+			"asset_code":"dory_colorSprite",
+			"asset_path":"Sprite/ColorBase/color2"
+		},
+		{
+			"asset_code":"dory_gold",
+			"asset_path":"Prefab/Fishes/Fish Prefab Dory Gold"
+		},
+		{
+			"asset_code":"dory_gold_lv1",
+			"asset_path":"Sprite/Fish/Min Level/bluetang_gold"
+		},
+		{
+			"asset_code":"dory_gold_lv10",
+			"asset_path":"Sprite/Fish/Max Level/bluetang_gold"
+		},
+		{
+			"asset_code":"dory_gold_colorSprite",
+			"asset_path":"Sprite/ColorBase/color_gold"
+		},
+		{
+			"asset_code":"dory_silver",
+			"asset_path":"Prefab/Fishes/Fish Prefab Dory Silver"
+		},
+		{
+			"asset_code":"dory_silver_lv1",
+			"asset_path":"Sprite/Fish/Min Level/bluetang_silver"
+		},
+		{
+			"asset_code":"dory_silver_lv10",
+			"asset_path":"Sprite/Fish/Max Level/bluetang_silver"
+		},
+		{
+			"asset_code":"dory_silver_colorSprite",
+			"asset_path":"Sprite/ColorBase/color4"
+		},
+		{
+			"asset_code":"angler",
+			"asset_path":"Prefab/Fishes/Fish Prefab Angler"
+		},
+		{
+			"asset_code":"angler_lv1",
+			"asset_path":"Sprite/Fish/Min Level/angler"
+		},
+		{
+			"asset_code":"angler_lv10",
+			"asset_path":"Sprite/Fish/Max Level/angler"
+		},
+		{
+			"asset_code":"angler_colorSprite",
+			"asset_path":"Sprite/ColorBase/color3"
+		},
+		{
+			"asset_code":"angler_gold",
+			"asset_path":"Prefab/Fishes/Fish Prefab Angler Gold"
+		},
+		{
+			"asset_code":"angler_gold_lv1",
+			"asset_path":"Sprite/Fish/Min Level/angler_gold"
+		},
+		{
+			"asset_code":"angler_gold_lv10",
+			"asset_path":"Sprite/Fish/Max Level/angler_gold"
+		},
+		{
+			"asset_code":"angler_gold_colorSprite",
+			"asset_path":"Sprite/ColorBase/color_gold"
+		},
+		{
+			"asset_code":"angler_silver",
+			"asset_path":"Prefab/Fishes/Fish Prefab Angler Silver"
+		},
+		{
+			"asset_code":"angler_silver_lv1",
+			"asset_path":"Sprite/Fish/Min Level/angler_silver"
+		},
+		{
+			"asset_code":"angler_silver_lv10",
+			"asset_path":"Sprite/Fish/Max Level/angler_silver"
+		},
+		{
+			"asset_code":"angler_silver_colorSprite",
+			"asset_path":"Sprite/ColorBase/color4"
+		},
+		{
+			"asset_code":"skeleton",
+			"asset_path":"Prefab/Fishes/Fish Prefab Skeleton"
+		},
+		{
+			"asset_code":"skeleton_lv1",
+			"asset_path":"Sprite/Fish/Min Level/skeleton"
+		},
+		{
+			"asset_code":"skeleton_lv10",
+			"asset_path":"Sprite/Fish/Max Level/skeleton"
+		},
+		{
+			"asset_code":"skeleton_colorSprite",
+			"asset_path":"Sprite/ColorBase/color4"
+		},
+		{
+			"asset_code":"coelfish_lv1",
+			"asset_path":"Sprite/Fish/Min Level/coelfish"
+		},
+		{
+			"asset_code":"coelfish_lv10",
+			"asset_path":"Sprite/Fish/Max Level/coelfish"
+		},
+		{
+			"asset_code":"dragon",
+			"asset_path":"Prefab/Fishes/Fish Prefab Dragon"
+		},
+		{
+			"asset_code":"dragon_lv1",
+			"asset_path":"Sprite/Fish/Min Level/dragon"
+		},
+		{
+			"asset_code":"dragon_lv10",
+			"asset_path":"Sprite/Fish/Max Level/dragon"
+		},
+		{
+			"asset_code":"orca",
+			"asset_path":"Prefab/Fishes/Fish Prefab Orca"
+		},
+		{
+			"asset_code":"orca_lv1",
+			"asset_path":"Sprite/Fish/Min Level/orca"
+		},
+		{
+			"asset_code":"orca_lv10",
+			"asset_path":"Sprite/Fish/Max Level/orca"
+		},
+		{
+			"asset_code":"orca_colorSprite",
+			"asset_path":"Sprite/ColorBase/color6"
+		},
+		{
+			"asset_code":"pine",
+			"asset_path":"Prefab/Fishes/Fish Prefab Pine"
+		},
+		{
+			"asset_code":"pine_lv1",
+			"asset_path":"Sprite/Fish/Min Level/pine"
+		},
+		{
+			"asset_code":"pine_lv10",
+			"asset_path":"Sprite/Fish/Max Level/pine"
+		},
+		{
+			"asset_code":"pine_colorSprite",
+			"asset_path":"Sprite/ColorBase/color5"
+		},		
+		{
+			"asset_code":"snowy",
+			"asset_path":"Prefab/Fishes/Fish Prefab Snowy"
+		},
+		{
+			"asset_code":"snowy_lv1",
+			"asset_path":"Sprite/Fish/Min Level/snowy"
+		},
+		{
+			"asset_code":"snowy_lv10",
+			"asset_path":"Sprite/Fish/Max Level/snowy"
+		},
+		{
+			"asset_code":"snowy_colorSprite",
+			"asset_path":"Sprite/ColorBase/color_white"
+		},
+		{
+			"asset_code":"rudolph",
+			"asset_path":"Prefab/Fishes/Fish Prefab Rudolph"
+		},
+		{
+			"asset_code":"rudolph_lv1",
+			"asset_path":"Sprite/Fish/Min Level/rudolph"
+		},
+		{
+			"asset_code":"rudolph_lv10",
+			"asset_path":"Sprite/Fish/Max Level/rudolph"
+		},
+		{
+			"asset_code":"rudolph_colorSprite",
+			"asset_path":"Sprite/ColorBase/color3"
+		},
+		{
+			"asset_code":"flower",
+			"asset_path":"Prefab/Fishes/Fish Prefab Flower"
+		},
+		{
+			"asset_code":"flower_lv1",
+			"asset_path":"Sprite/Fish/Min Level/flower"
+		},
+		{
+			"asset_code":"flower_lv10",
+			"asset_path":"Sprite/Fish/Max Level/flower"
+		},
+		{
+			"asset_code":"flower_colorSprite",
+			"asset_path":"Sprite/ColorBase/color_flower"
+		},
+		{
+			"asset_code":"dragon_colorSprite",
+			"asset_path":"Sprite/ColorBase/color1"
+		}
+	]
+}

@@ -1,0 +1,152 @@
+
+seaweed_slice.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 291
+  size: 746, 731
+  orig: 746, 731
+  offset: 0, 0
+  index: -1
+lv1 b
+  rotate: true
+  xy: 869, 171
+  size: 133, 153
+  orig: 133, 153
+  offset: 0, 0
+  index: -1
+lv2 a
+  rotate: true
+  xy: 750, 306
+  size: 228, 260
+  orig: 228, 260
+  offset: 0, 0
+  index: -1
+lv3 a
+  rotate: true
+  xy: 2, 2
+  size: 287, 406
+  orig: 287, 406
+  offset: 0, 0
+  index: -1
+lv3 d
+  rotate: false
+  xy: 750, 536
+  size: 266, 486
+  orig: 266, 486
+  offset: 0, 0
+  index: -1
+lv3 e
+  rotate: true
+  xy: 410, 25
+  size: 264, 457
+  orig: 264, 457
+  offset: 0, 0
+  index: -1
+shadow_2
+  rotate: false
+  xy: 869, 21
+  size: 148, 148
+  orig: 154, 154
+  offset: 3, 3
+  index: -1
+
+seaweed_slice2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lv1 a
+  rotate: true
+  xy: 375, 3
+  size: 142, 146
+  orig: 142, 146
+  offset: 0, 0
+  index: -1
+lv1 c
+  rotate: true
+  xy: 2, 37
+  size: 121, 206
+  orig: 121, 206
+  offset: 0, 0
+  index: -1
+lv1 d
+  rotate: true
+  xy: 210, 2
+  size: 143, 163
+  orig: 143, 163
+  offset: 0, 0
+  index: -1
+lv2 b
+  rotate: false
+  xy: 639, 264
+  size: 312, 163
+  orig: 312, 163
+  offset: 0, 0
+  index: -1
+lv2 c
+  rotate: true
+  xy: 224, 147
+  size: 161, 386
+  orig: 161, 386
+  offset: 0, 0
+  index: -1
+lv2 d
+  rotate: true
+  xy: 712, 781
+  size: 230, 301
+  orig: 230, 301
+  offset: 0, 0
+  index: -1
+lv2 e
+  rotate: false
+  xy: 612, 87
+  size: 338, 175
+  orig: 338, 175
+  offset: 0, 0
+  index: -1
+lv2 f
+  rotate: false
+  xy: 740, 429
+  size: 179, 350
+  orig: 179, 350
+  offset: 0, 0
+  index: -1
+lv3 b
+  rotate: false
+  xy: 301, 756
+  size: 409, 255
+  orig: 409, 255
+  offset: 0, 0
+  index: -1
+lv3 c
+  rotate: false
+  xy: 301, 535
+  size: 437, 219
+  orig: 437, 219
+  offset: 0, 0
+  index: -1
+lv3 f
+  rotate: false
+  xy: 224, 310
+  size: 413, 223
+  orig: 413, 223
+  offset: 0, 0
+  index: -1
+lv3 g
+  rotate: true
+  xy: 2, 160
+  size: 455, 220
+  orig: 455, 220
+  offset: 0, 0
+  index: -1
+lv3 h
+  rotate: false
+  xy: 2, 617
+  size: 297, 394
+  orig: 297, 394
+  offset: 0, 0
+  index: -1

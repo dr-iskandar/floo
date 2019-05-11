@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rudolfish_Effect03
+  rotate: false
+  xy: 202, 200
+  size: 198, 190
+  orig: 198, 190
+  offset: 0, 0
+  index: -1
+silver_star_small_3
+  rotate: false
+  xy: 202, 200
+  size: 198, 190
+  orig: 198, 190
+  offset: 0, 0
+  index: -1
+silver_star_big_1
+  rotate: false
+  xy: 2, 197
+  size: 198, 193
+  orig: 198, 193
+  offset: 0, 0
+  index: -1
+silver_star_big_2
+  rotate: false
+  xy: 202, 8
+  size: 198, 190
+  orig: 198, 190
+  offset: 0, 0
+  index: -1
+silver_star_small_2
+  rotate: false
+  xy: 202, 8
+  size: 198, 190
+  orig: 198, 190
+  offset: 0, 0
+  index: -1
+silver_star_small_1
+  rotate: false
+  xy: 2, 2
+  size: 198, 193
+  orig: 198, 193
+  offset: 0, 0
+  index: -1

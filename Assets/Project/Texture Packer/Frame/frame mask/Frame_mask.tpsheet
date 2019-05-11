@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:9d6146fa00e6e7812b0b9b91b54fe6e1:2623951e62904003ac5f21ba88c347e7:1206708f1ba0afe00a1870246302e703$
+#
+:format=40000
+:texture=Frame_mask.png
+:size=1024x2048
+:pivotpoints=enabled
+
+frame_mask;1;875;896;1172;0.5;0.5; 12;200;1168;434;1146;749;1172;826;1172;896;1104;896;0;0;0;0;1081;23;1129;68;1166;102;1172;153;1172; 10;7;10;11;8;9;10;7;8;10;0;7;11;7;0;1;1;4;5;2;3;4;1;2;4;6;1;5;7;1;6

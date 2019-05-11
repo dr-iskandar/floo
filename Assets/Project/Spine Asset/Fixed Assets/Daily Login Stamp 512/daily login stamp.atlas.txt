@@ -1,0 +1,13 @@
+
+daily login stamp.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+get stamp
+  rotate: false
+  xy: 2, 2
+  size: 453, 280
+  orig: 453, 280
+  offset: 0, 0
+  index: -1

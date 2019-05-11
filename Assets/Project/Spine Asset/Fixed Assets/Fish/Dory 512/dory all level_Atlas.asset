@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: dory all level_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: bb38c9525054ea742a7448d9d727a163, type: 3}
+  materials:
+  - {fileID: 2100000, guid: cf46e6a5da711e34a982bd949e4b7d59, type: 2}
+  - {fileID: 2100000, guid: 24b1d265120a32143afd6c37f840467b, type: 2}
+  - {fileID: 2100000, guid: a45cd98bb67ec434fb3ab389a814ec91, type: 2}
+  - {fileID: 2100000, guid: 877696cd07ad9294e858e68f9af168f4, type: 2}

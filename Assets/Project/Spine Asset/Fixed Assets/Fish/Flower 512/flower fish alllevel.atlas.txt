@@ -1,0 +1,1095 @@
+
+flower fish alllevel.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower10_body
+  rotate: false
+  xy: 277, 6
+  size: 113, 250
+  orig: 113, 250
+  offset: 0, 0
+  index: -1
+flower10_fin1_back_left
+  rotate: false
+  xy: 402, 401
+  size: 101, 109
+  orig: 101, 109
+  offset: 0, 0
+  index: -1
+flower10_fin1_back_right
+  rotate: false
+  xy: 402, 290
+  size: 101, 109
+  orig: 101, 109
+  offset: 0, 0
+  index: -1
+flower10_fin2_back_left
+  rotate: true
+  xy: 392, 3
+  size: 101, 61
+  orig: 101, 61
+  offset: 0, 0
+  index: -1
+flower10_iris_left
+  rotate: false
+  xy: 455, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+flower9_iris_left
+  rotate: false
+  xy: 455, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+flower10_tail2_left
+  rotate: false
+  xy: 392, 106
+  size: 117, 150
+  orig: 117, 150
+  offset: 0, 0
+  index: -1
+flower1_body
+  rotate: false
+  xy: 2, 260
+  size: 146, 250
+  orig: 146, 250
+  offset: 0, 0
+  index: -1
+flower2_body
+  rotate: false
+  xy: 2, 260
+  size: 146, 250
+  orig: 146, 250
+  offset: 0, 0
+  index: -1
+flower3_body
+  rotate: false
+  xy: 2, 8
+  size: 146, 250
+  orig: 146, 250
+  offset: 0, 0
+  index: -1
+flower4_body
+  rotate: true
+  xy: 150, 385
+  size: 125, 250
+  orig: 125, 250
+  offset: 0, 0
+  index: -1
+flower5_body
+  rotate: true
+  xy: 150, 258
+  size: 125, 250
+  orig: 125, 250
+  offset: 0, 0
+  index: -1
+flower5_eyeball_left
+  rotate: true
+  xy: 455, 33
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+flower6_eyeball_left
+  rotate: true
+  xy: 455, 33
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+flower6_body
+  rotate: false
+  xy: 150, 6
+  size: 125, 250
+  orig: 125, 250
+  offset: 0, 0
+  index: -1
+flower8_fin3_front_left
+  rotate: false
+  xy: 402, 258
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+flower8_fin3_front_right
+  rotate: false
+  xy: 447, 258
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+
+flower fish alllevel2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower10_eyelid_left
+  rotate: false
+  xy: 182, 6
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+flower9_eyelid_left
+  rotate: false
+  xy: 182, 6
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+flower10_eyelid_right
+  rotate: false
+  xy: 432, 170
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+flower9_eyelid_right
+  rotate: false
+  xy: 432, 170
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+flower10_fin1_front_left
+  rotate: true
+  xy: 117, 52
+  size: 206, 110
+  orig: 206, 110
+  offset: 0, 0
+  index: -1
+flower10_fin1_front_right
+  rotate: false
+  xy: 232, 400
+  size: 206, 110
+  orig: 206, 110
+  offset: 0, 0
+  index: -1
+flower10_fin2_back_right
+  rotate: true
+  xy: 449, 353
+  size: 101, 61
+  orig: 101, 61
+  offset: 0, 0
+  index: -1
+flower10_tail1_left
+  rotate: true
+  xy: 232, 241
+  size: 75, 215
+  orig: 75, 216
+  offset: 0, 0
+  index: -1
+flower10_tail1_right
+  rotate: true
+  xy: 232, 318
+  size: 80, 215
+  orig: 80, 215
+  offset: 0, 0
+  index: -1
+flower3_tail
+  rotate: false
+  xy: 405, 19
+  size: 65, 143
+  orig: 65, 143
+  offset: 0, 0
+  index: -1
+flower4_eyeball_left
+  rotate: true
+  xy: 449, 271
+  size: 80, 61
+  orig: 80, 61
+  offset: 0, 0
+  index: -1
+flower4_eyeball_right
+  rotate: true
+  xy: 449, 190
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+flower5_eyeball_right
+  rotate: false
+  xy: 440, 456
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+flower6_eyeball_right
+  rotate: false
+  xy: 440, 456
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+flower7_body
+  rotate: false
+  xy: 2, 260
+  size: 113, 250
+  orig: 113, 250
+  offset: 0, 0
+  index: -1
+flower7_eyeball_left
+  rotate: false
+  xy: 117, 2
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+flower8_eyeball_left
+  rotate: false
+  xy: 117, 2
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+flower7_fin1_back_left
+  rotate: true
+  xy: 472, 103
+  size: 85, 38
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+flower7_fin1_back_right
+  rotate: true
+  xy: 472, 16
+  size: 85, 38
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+flower7_fin1_front_left
+  rotate: true
+  xy: 229, 2
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+flower7_fin1_front_right
+  rotate: true
+  xy: 317, 2
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+flower7_fin2_back_left
+  rotate: false
+  xy: 182, 26
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+flower8_body
+  rotate: false
+  xy: 2, 8
+  size: 113, 250
+  orig: 113, 250
+  offset: 0, 0
+  index: -1
+flower8_tail1_right
+  rotate: true
+  xy: 229, 164
+  size: 75, 201
+  orig: 75, 202
+  offset: 0, 0
+  index: -1
+flower9_tail1_right
+  rotate: true
+  xy: 229, 164
+  size: 75, 201
+  orig: 75, 202
+  offset: 0, 0
+  index: -1
+flower9_body
+  rotate: false
+  xy: 117, 260
+  size: 113, 250
+  orig: 113, 250
+  offset: 0, 0
+  index: -1
+
+flower fish alllevel3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower10_fin2_front_left
+  rotate: true
+  xy: 2, 8
+  size: 120, 82
+  orig: 120, 82
+  offset: 0, 0
+  index: -1
+flower10_fin2_front_right
+  rotate: true
+  xy: 302, 21
+  size: 120, 82
+  orig: 120, 82
+  offset: 0, 0
+  index: -1
+flower10_fin3_front_left
+  rotate: true
+  xy: 386, 14
+  size: 132, 54
+  orig: 132, 54
+  offset: 0, 0
+  index: -1
+flower10_tail2_right
+  rotate: true
+  xy: 69, 149
+  size: 110, 142
+  orig: 110, 142
+  offset: 0, 0
+  index: -1
+flower2_tail
+  rotate: true
+  xy: 181, 2
+  size: 44, 112
+  orig: 44, 112
+  offset: 0, 0
+  index: -1
+flower3_eyeball_left
+  rotate: true
+  xy: 441, 240
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+flower3_eyeball_right
+  rotate: true
+  xy: 441, 148
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+flower4_fin_left
+  rotate: true
+  xy: 379, 148
+  size: 111, 60
+  orig: 111, 60
+  offset: 0, 0
+  index: -1
+flower5_eyelid_left
+  rotate: true
+  xy: 407, 265
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+flower6_eyelid_left
+  rotate: true
+  xy: 407, 265
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+flower5_iris_right
+  rotate: false
+  xy: 442, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+flower6_iris_right
+  rotate: false
+  xy: 442, 2
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+flower5_tail_left
+  rotate: true
+  xy: 75, 261
+  size: 57, 164
+  orig: 57, 164
+  offset: 0, 0
+  index: -1
+flower5_tail_right
+  rotate: true
+  xy: 241, 261
+  size: 57, 164
+  orig: 57, 164
+  offset: 0, 0
+  index: -1
+flower6_tail1_left
+  rotate: true
+  xy: 213, 202
+  size: 57, 164
+  orig: 57, 164
+  offset: 0, 0
+  index: -1
+flower6_tail1_right
+  rotate: true
+  xy: 213, 143
+  size: 57, 164
+  orig: 57, 164
+  offset: 0, 0
+  index: -1
+flower7_eyelid_left
+  rotate: false
+  xy: 133, 4
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+flower8_eyelid_left
+  rotate: false
+  xy: 133, 4
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+flower7_fin2_back_right
+  rotate: false
+  xy: 86, 2
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+flower7_tail1_left
+  rotate: false
+  xy: 431, 333
+  size: 62, 177
+  orig: 62, 177
+  offset: 0, 0
+  index: -1
+flower7_tail1_right
+  rotate: false
+  xy: 2, 130
+  size: 65, 175
+  orig: 65, 176
+  offset: 0, 0
+  index: -1
+flower8_fin1_back_left
+  rotate: true
+  xy: 442, 46
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+flower8_fin1_front_left
+  rotate: false
+  xy: 75, 416
+  size: 176, 94
+  orig: 176, 94
+  offset: 0, 0
+  index: -1
+flower8_fin1_front_right
+  rotate: false
+  xy: 75, 320
+  size: 176, 94
+  orig: 176, 94
+  offset: 0, 0
+  index: -1
+flower8_tail1_left
+  rotate: false
+  xy: 2, 307
+  size: 71, 203
+  orig: 71, 203
+  offset: 0, 0
+  index: -1
+flower9_tail1_left
+  rotate: false
+  xy: 2, 307
+  size: 71, 203
+  orig: 71, 203
+  offset: 0, 0
+  index: -1
+flower9_fin1_front_left
+  rotate: false
+  xy: 253, 416
+  size: 176, 94
+  orig: 176, 94
+  offset: 0, 0
+  index: -1
+flower9_fin1_front_right
+  rotate: false
+  xy: 253, 320
+  size: 176, 94
+  orig: 176, 94
+  offset: 0, 0
+  index: -1
+flower9_tail2_left
+  rotate: false
+  xy: 86, 28
+  size: 93, 119
+  orig: 93, 119
+  offset: 0, 0
+  index: -1
+flower9_tail2_right
+  rotate: true
+  xy: 181, 48
+  size: 93, 119
+  orig: 93, 119
+  offset: 0, 0
+  index: -1
+
+flower fish alllevel4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower10_eyeball_left
+  rotate: false
+  xy: 281, 79
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+flower9_eyeball_left
+  rotate: false
+  xy: 281, 79
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+flower10_eyeball_right
+  rotate: true
+  xy: 64, 2
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+flower9_eyeball_right
+  rotate: true
+  xy: 64, 2
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+flower10_fin3_front_right
+  rotate: false
+  xy: 140, 456
+  size: 133, 54
+  orig: 133, 54
+  offset: 0, 0
+  index: -1
+flower10_iris_right
+  rotate: false
+  xy: 480, 102
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+flower9_iris_right
+  rotate: false
+  xy: 480, 102
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+flower1_eyeball_left
+  rotate: true
+  xy: 161, 263
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+flower2_eyeball_left
+  rotate: true
+  xy: 161, 263
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+flower1_eyeball_right
+  rotate: false
+  xy: 112, 184
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+flower2_eyeball_right
+  rotate: false
+  xy: 112, 184
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+flower1_eyelid_ledt
+  rotate: false
+  xy: 308, 282
+  size: 75, 35
+  orig: 75, 36
+  offset: 0, 1
+  index: -1
+flower2_eyelid_left
+  rotate: false
+  xy: 308, 282
+  size: 75, 35
+  orig: 75, 36
+  offset: 0, 1
+  index: -1
+flower1_eyelid_right
+  rotate: true
+  xy: 214, 186
+  size: 75, 35
+  orig: 75, 36
+  offset: 0, 1
+  index: -1
+flower2_eyelid_right
+  rotate: true
+  xy: 214, 186
+  size: 75, 35
+  orig: 75, 36
+  offset: 0, 1
+  index: -1
+flower1_fin_left
+  rotate: false
+  xy: 251, 226
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+flower1_fin_right
+  rotate: false
+  xy: 251, 166
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+flower1_iris_left
+  rotate: false
+  xy: 380, 207
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+flower2_iris_left
+  rotate: false
+  xy: 380, 207
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+flower1_iris_right
+  rotate: false
+  xy: 378, 146
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+flower2_iris_right
+  rotate: false
+  xy: 378, 146
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+flower1_tail
+  rotate: false
+  xy: 237, 379
+  size: 36, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+flower2_fin_left
+  rotate: true
+  xy: 166, 50
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+flower2_fin_right
+  rotate: false
+  xy: 307, 222
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+flower3_eyelid_left
+  rotate: false
+  xy: 441, 201
+  size: 67, 32
+  orig: 67, 33
+  offset: 0, 1
+  index: -1
+flower3_eyelid_right
+  rotate: false
+  xy: 223, 131
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+flower3_fin_left
+  rotate: true
+  xy: 51, 153
+  size: 109, 59
+  orig: 109, 59
+  offset: 0, 0
+  index: -1
+flower3_fin_right
+  rotate: false
+  xy: 112, 123
+  size: 109, 59
+  orig: 109, 59
+  offset: 0, 0
+  index: -1
+flower3_iris_left
+  rotate: false
+  xy: 385, 268
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+flower3_iris_right
+  rotate: false
+  xy: 226, 76
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+flower4_eyelid_left
+  rotate: true
+  xy: 481, 383
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+flower4_eyelidright
+  rotate: true
+  xy: 481, 322
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+flower4_fin_right
+  rotate: true
+  xy: 2, 13
+  size: 111, 60
+  orig: 111, 60
+  offset: 0, 0
+  index: -1
+flower4_iris_left
+  rotate: false
+  xy: 104, 4
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+flower4_iris_right
+  rotate: false
+  xy: 377, 97
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+flower4_tail_left
+  rotate: true
+  xy: 275, 463
+  size: 47, 136
+  orig: 47, 136
+  offset: 0, 0
+  index: -1
+flower4_tail_right
+  rotate: false
+  xy: 2, 126
+  size: 47, 136
+  orig: 47, 136
+  offset: 0, 0
+  index: -1
+flower5_eyelid_right
+  rotate: false
+  xy: 51, 126
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+flower6_eyelid_right
+  rotate: false
+  xy: 51, 126
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+flower5_fin_back_left
+  rotate: true
+  xy: 426, 54
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+flower5_fin_back_right
+  rotate: false
+  xy: 338, 48
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+flower5_fin_front_left
+  rotate: false
+  xy: 2, 437
+  size: 136, 73
+  orig: 136, 73
+  offset: 0, 0
+  index: -1
+flower6_fin1_front_left
+  rotate: false
+  xy: 2, 437
+  size: 136, 73
+  orig: 136, 73
+  offset: 0, 0
+  index: -1
+flower5_fin_front_right
+  rotate: false
+  xy: 2, 362
+  size: 136, 73
+  orig: 136, 73
+  offset: 0, 0
+  index: -1
+flower6_fin1_front_right
+  rotate: false
+  xy: 2, 362
+  size: 136, 73
+  orig: 136, 73
+  offset: 0, 0
+  index: -1
+flower5_iris_left
+  rotate: true
+  xy: 452, 10
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+flower6_iris_left
+  rotate: true
+  xy: 452, 10
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+flower6_fin2_front_left
+  rotate: true
+  xy: 357, 2
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+flower6_fin2_front_right
+  rotate: false
+  xy: 406, 5
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+flower6_fin_back_left
+  rotate: false
+  xy: 439, 167
+  size: 71, 32
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+flower6_fin_back_right
+  rotate: false
+  xy: 439, 133
+  size: 71, 32
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+flower6_tail2_left
+  rotate: false
+  xy: 226, 41
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+flower6_tail2_right
+  rotate: false
+  xy: 282, 44
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+flower7_eyeball_right
+  rotate: false
+  xy: 379, 323
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+flower8_eyeball_right
+  rotate: false
+  xy: 379, 323
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+flower7_eyelid_right
+  rotate: true
+  xy: 352, 107
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+flower8_eyelid_right
+  rotate: true
+  xy: 352, 107
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+flower7_fin2_front_left
+  rotate: false
+  xy: 307, 156
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+flower7_fin2_front_right
+  rotate: false
+  xy: 441, 235
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+flower7_iris_left
+  rotate: false
+  xy: 225, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+flower8_iris_left
+  rotate: false
+  xy: 225, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+flower7_iris_right
+  rotate: false
+  xy: 264, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+flower8_iris_right
+  rotate: false
+  xy: 264, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+flower7_tail2_left
+  rotate: true
+  xy: 308, 319
+  size: 74, 69
+  orig: 75, 69
+  offset: 1, 0
+  index: -1
+flower8_tail2_left
+  rotate: true
+  xy: 308, 319
+  size: 74, 69
+  orig: 75, 69
+  offset: 1, 0
+  index: -1
+flower7_tail2_right
+  rotate: false
+  xy: 405, 373
+  size: 74, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+flower8_tail2_right
+  rotate: false
+  xy: 405, 373
+  size: 74, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+flower8_fin1_back_right
+  rotate: false
+  xy: 64, 53
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+flower8_fin2_back_left
+  rotate: false
+  xy: 303, 11
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+flower8_fin2_back_right
+  rotate: false
+  xy: 426, 100
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+flower8_fin2_front_left
+  rotate: false
+  xy: 413, 444
+  size: 91, 66
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+flower8_fin2_front_right
+  rotate: true
+  xy: 93, 269
+  size: 91, 66
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+flower9_fin1_back_left
+  rotate: false
+  xy: 2, 264
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+flower9_fin1_back_right
+  rotate: true
+  xy: 140, 365
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+flower9_fin2_back_left
+  rotate: true
+  xy: 368, 403
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+flower9_fin2_back_right
+  rotate: false
+  xy: 292, 119
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+flower9_fin2_front_left
+  rotate: false
+  xy: 275, 395
+  size: 91, 66
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+flower9_fin2_front_right
+  rotate: true
+  xy: 240, 286
+  size: 91, 66
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+flower9_fin3_front_left
+  rotate: false
+  xy: 153, 12
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+flower9_fin3_front_r
+  rotate: true
+  xy: 443, 301
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1

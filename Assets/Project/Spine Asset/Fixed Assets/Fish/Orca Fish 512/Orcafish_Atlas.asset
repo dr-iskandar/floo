@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Orcafish_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: d971b4b2db3276e4991d2b3f6e521f66, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 9523e5bdcf6986c40923f4649fb203f1, type: 2}
+  - {fileID: 2100000, guid: f4dc8adad3c4113449a092d19149476e, type: 2}
+  - {fileID: 2100000, guid: a9cc92391e5e1e14d9f84e061a2feaed, type: 2}
+  - {fileID: 2100000, guid: 762fe18a8d297004ca4d04305ccc5b93, type: 2}

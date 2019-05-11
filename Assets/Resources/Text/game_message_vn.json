@@ -1,0 +1,401 @@
+{
+	"data":[
+		{
+			"message_code":"GBL0001",
+			"message_value":"Mất kết nối với server. Hãy kiểm tra mạng Internet của bạn và thử lại.",
+			"message_size":65
+		},
+		{
+			"message_code":"GBL0002",
+			"message_value":"Server đang được bảo trì. Hãy thử lại vào lúc khác.",
+			"message_size":65
+		},		
+		{
+			"message_code":"GBL0003",
+			"message_value":"Something goes wrong with Server.",
+			"message_size":65
+		},
+
+		{
+			"message_code":"LOA0001",
+			"message_value":"Joining Game",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0002",
+			"message_value":"Connecting to Server",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0003",
+			"message_value":"Checking App Version",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0004",
+			"message_value":"A new version is required, please update the game from Google Play Store.",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0005",
+			"message_value":"A new version is required, please update the game from App Store.",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0006",
+			"message_value":"Getting Default Parameter",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0007",
+			"message_value":"Registering New User",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0008",
+			"message_value":"Login To Server",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0009",
+			"message_value":"Generating Tiles",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0010",
+			"message_value":"Generating Map Feature",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0011",
+			"message_value":"Generating Water Ripple",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0012",
+			"message_value":"Loading Game Assets",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0013",
+			"message_value":"Please Wait...",
+			"message_size":65
+		},
+			
+		{
+			"message_code":"POP0001",
+			"message_value":"Do you want to Quit game?",
+			"message_size":70
+		},
+		{
+			"message_code":"POP0002",
+			"message_value":"Are You sure want to Exit Floo?",
+			"message_size":70
+		},
+		{
+			"message_code":"POP0003",
+			"message_value":"Please Fill the Name First",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0004",
+			"message_value":"Purchase",
+			"message_size":62
+		},
+		{
+			"message_code":"POP0005",
+			"message_value":"Không đủ tiền. Mua Vỏ Vàng chứ?",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0006",
+			"message_value":"You have already bought a Booster item.",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0007",
+			"message_value":"Transaction successful",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0008",
+			"message_value":"Chọn màu cá ",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0009",
+			"message_value":"Did you enjoy the game? Please take a moment to rate our game and tell us how to make it better!",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0010",
+			"message_value":"Thank you for your support!",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0011",
+			"message_value":"Do you want to change language to ",
+			"message_size":65
+		},
+
+		{
+			"message_code":"TXT0001",
+			"message_value":"Version",
+			"message_size":48
+		},
+		{
+			"message_code":"TXT0002",
+			"message_value":"tên người chơi",
+			"message_size":58
+		},
+		{
+			"message_code":"TXT0003",
+			"message_value":"Please fill Player name",
+			"message_size":48
+		},
+		{
+			"message_code":"TXT0004",
+			"message_value":"Tên này đã có người dùng",
+			"message_size":48
+		},
+		{
+			"message_code":"TXT0005",
+			"message_value":"Sorry, this nickname already exist",
+			"message_size":48
+		},
+		{
+			"message_code":"TXT0006",
+			"message_value":"SFX",
+			"message_size":60
+		},
+		{
+			"message_code":"TXT0007",
+			"message_value":"BGM",
+			"message_size":60
+		},
+		{
+			"message_code":"TXT0008",
+			"message_value":"Lang",
+			"message_size":60
+		},
+		{
+			"message_code":"TXT0009",
+			"message_value":"Đang dùng",
+			"message_size":40
+		},
+		{
+			"message_code":"TXT0010",
+			"message_value":"Tối đa",
+			"message_size":45
+		},
+		{
+			"message_code":"TXT0011",
+			"message_value":"Phần thưởng",
+			"message_size":40
+		},
+		{
+			"message_code":"TXT0012",
+			"message_value":"COMPLETED",
+			"message_size":45
+		},
+		{
+			"message_code":"TXT0013",
+			"message_value":"pts",
+			"message_size":50
+		},	
+		{
+			"message_code":"TXT0014",
+			"message_value":"Ctrl",
+			"message_size":60
+		},		
+		{
+			"message_code":"TXT0015",
+			"message_value":"Loading...",
+			"message_size":60
+		},		
+		{
+			"message_code":"TXT0016",
+			"message_value":"Do not show this again",
+			"message_size":50
+		},	
+		{
+			"message_code":"TXT0017",
+			"message_value":"Today's login reward",
+			"message_size":50
+		},	
+
+
+		{
+			"message_code":"TOG0001",
+			"message_value":"Vàng",
+			"message_size":68
+		},
+		{
+			"message_code":"TOG0002",
+			"message_value":"Skin",
+			"message_size":68
+		},
+		{
+			"message_code":"TOG0003",
+			"message_value":"Points",
+			"message_size":68
+		},
+		{
+			"message_code":"TOG0004",
+			"message_value":"Time",
+			"message_size":68
+		},
+		{
+			"message_code":"TOG0005",
+			"message_value":"Eating",
+			"message_size":68
+		},
+		{
+			"message_code":"TOG0006",
+			"message_value":"BẬT",
+			"message_size":45
+		},
+		{
+			"message_code":"TOG0007",
+			"message_value":"TẮT",
+			"message_size":45
+		},
+		{
+			"message_code":"TOG0008",
+			"message_value":"JOYSTICK",
+			"message_size":45
+		},
+		{
+			"message_code":"TOG0009",
+			"message_value":"TOUCH",
+			"message_size":45
+		},
+
+		{
+			"message_code":"BTN0001",
+			"message_value":"chơi",
+			"message_size":160
+		},
+		{
+			"message_code":"BTN0002",
+			"message_value":"OK",
+			"message_size":75
+		},
+		{
+			"message_code":"BTN0003",
+			"message_value":"Hoàn thành",
+			"message_size":48
+		},
+		{
+			"message_code":"BTN0004",
+			"message_value":"CANCEL",
+			"message_size":60
+		},
+		{
+			"message_code":"BTN0005",
+			"message_value":"Nghỉ chơi",
+			"message_size":60
+		},
+		{
+			"message_code":"BTN0006",
+			"message_value":"Chơi lại",
+			"message_size":54
+		},
+		{
+			"message_code":"BTN0007",
+			"message_value":"Nghỉ chơi",
+			"message_size":65
+		},
+		{
+			"message_code":"BTN0008",
+			"message_value":"Sử dụng",
+			"message_size":50
+		},
+		{
+			"message_code":"BTN0009",
+			"message_value":"Mua",
+			"message_size":50
+		},
+		{
+			"message_code":"BTN0010",
+			"message_value":"Màu",
+			"message_size":50
+		},
+		{
+			"message_code":"BTN0011",
+			"message_value":"Nhận",
+			"message_size":46
+		},
+		{
+			"message_code":"BTN0012",
+			"message_value":"Vật phẩm nâng cao",
+			"message_size":26
+		},
+		{
+			"message_code":"BTN0013",
+			"message_value":"Kết nối với Facebook",
+			"message_size":58
+		},
+		{
+			"message_code":"BTN0014",
+			"message_value":"Connected",
+			"message_size":58
+		},
+		{
+			"message_code":"BTN0015",
+			"message_value":"Danh sách người làm",
+			"message_size":58
+		},
+		{
+			"message_code":"BTN0016",
+			"message_value":"Chia sẻ",
+			"message_size":55
+		},
+		{
+			"message_code":"BTN0017",
+			"message_value":"RATE NOW",
+			"message_size":65
+		},
+		{
+			"message_code":"BTN0018",
+			"message_value":"NOT NOW",
+			"message_size":65
+		},
+		{
+			"message_code":"BTN0019",
+			"message_value":"News",
+			"message_size":58
+		},
+
+		{
+			"message_code":"LAN0001",
+			"message_value":"English",
+			"message_size":58
+		},
+		{
+			"message_code":"LAN0002",
+			"message_value":"Indonesia",
+			"message_size":58
+		},
+		{
+			"message_code":"LAN0003",
+			"message_value":"Chinese (Trad)",
+			"message_size":58
+		},
+		{
+			"message_code":"LAN0004",
+			"message_value":"Chinese (Simp)",
+			"message_size":58
+		},
+		{
+			"message_code":"LAN0005",
+			"message_value":"Thai",
+			"message_size":58
+		},
+		{
+			"message_code":"LAN0006",
+			"message_value":"Vietnamese",
+			"message_size":58
+		}
+	]
+}

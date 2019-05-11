@@ -1,0 +1,97 @@
+
+Squid Refined.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PredatorSquid_Body
+  rotate: false
+  xy: 2, 196
+  size: 235, 314
+  orig: 235, 314
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_InnerLeft1
+  rotate: true
+  xy: 239, 423
+  size: 87, 155
+  orig: 87, 155
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_InnerLeft2
+  rotate: false
+  xy: 275, 115
+  size: 50, 104
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_InnerRight1
+  rotate: false
+  xy: 396, 355
+  size: 87, 155
+  orig: 87, 155
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_InnerRight2
+  rotate: true
+  xy: 327, 119
+  size: 50, 104
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_Left1
+  rotate: false
+  xy: 239, 221
+  size: 64, 200
+  orig: 64, 200
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_Left2
+  rotate: true
+  xy: 2, 112
+  size: 82, 271
+  orig: 82, 271
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_Left3
+  rotate: true
+  xy: 371, 263
+  size: 90, 137
+  orig: 90, 137
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_Left4
+  rotate: false
+  xy: 275, 14
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_Right1
+  rotate: false
+  xy: 305, 221
+  size: 64, 200
+  orig: 64, 200
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_Right2
+  rotate: true
+  xy: 2, 28
+  size: 82, 271
+  orig: 82, 271
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_Right3
+  rotate: true
+  xy: 371, 171
+  size: 90, 137
+  orig: 90, 137
+  offset: 0, 0
+  index: -1
+PredatorSquid_Tentacle_Right4
+  rotate: true
+  xy: 392, 2
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1

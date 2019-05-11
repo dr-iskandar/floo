@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: snowy fish_slicing3 revised_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: de00abfb35ace8941b930eb48bd0d440, type: 3}
+  materials:
+  - {fileID: 2100000, guid: e80608911b251f8408ca82d98b30f575, type: 2}
+  - {fileID: 2100000, guid: 2b4c0656b2b85944da88172355db9256, type: 2}
+  - {fileID: 2100000, guid: 57f3a01412a54944f8fac0838f9b3699, type: 2}
+  - {fileID: 2100000, guid: a6217749167c08846b13c6ac77d8a35b, type: 2}

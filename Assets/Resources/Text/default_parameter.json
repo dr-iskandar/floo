@@ -1,0 +1,1163 @@
+{
+	"fish_size": [{
+		"skin": "dory",
+		"color_code": [0, 21, 22, 23, 24, 25],
+		"levels": [{
+			"level": 1,
+			"head": 3.1,
+			"bodies": [
+				2.4
+			],
+			"camera_size": 0.8,
+			"view_width": 70,
+			"view_height": 70,
+			"speed": 0.9,
+			"max_exp": 500
+		}, {
+			"level": 2,
+			"head": 4.15,
+			"bodies": [
+				3.15
+			],
+			"camera_size": 0.9,
+			"view_width": 85,
+			"view_height": 85,
+			"speed": 0.885,
+			"max_exp": 1520
+		}, {
+			"level": 3,
+			"head": 5.5,
+			"bodies": [
+				3.95
+			],
+			"camera_size": 1.0,
+			"view_width": 100,
+			"view_height": 100,
+			"speed": 0.87,
+			"max_exp": 3494
+		}, {
+			"level": 4,
+			"head": 6.35,
+			"bodies": [
+				5
+			],
+			"camera_size": 1.1,
+			"view_width": 110,
+			"view_height": 110,
+			"speed": 0.855,
+			"max_exp": 6993
+		}, {
+			"level": 5,
+			"head": 7.35,
+			"bodies": [
+				5.85
+			],
+			"camera_size": 1.2,
+			"view_width": 120,
+			"view_height": 120,
+			"speed": 0.84,
+			"max_exp": 13049
+		}, {
+			"level": 6,
+			"head": 10.5,
+			"bodies": [
+				8
+			],
+			"camera_size": 1.45,
+			"view_width": 145,
+			"view_height": 145,
+			"speed": 0.825,
+			"max_exp": 25767
+		}, {
+			"level": 7,
+			"head": 13.4,
+			"bodies": [
+				10.5
+			],
+			"camera_size": 1.7,
+			"view_width": 165,
+			"view_height": 165,
+			"speed": 0.81,
+			"max_exp": 50749
+		}, {
+			"level": 8,
+			"head": 16.25,
+			"bodies": [
+				13
+			],
+			"camera_size": 1.8,
+			"view_width": 180,
+			"view_height": 180,
+			"speed": 0.795,
+			"max_exp": 95717
+		}, {
+			"level": 9,
+			"head": 18.75,
+			"bodies": [
+				15
+			],
+			"camera_size": 1.9,
+			"view_width": 190,
+			"view_height": 190,
+			"speed": 0.78,
+			"max_exp": 174711
+		}, {
+			"level": 10,
+			"head": 20.75,
+			"bodies": [
+				16.75
+			],
+			"camera_size": 2.0,
+			"view_width": 200,
+			"view_height": 200,
+			"speed": 0.765,
+			"max_exp": 200000
+		}]
+	},
+	{
+		"skin": "nemo",
+		"color_code": [0, 11, 12, 13, 14, 15, 16, 17, 18],
+		"levels": [{
+			"level": 1,
+			"head": 3.1,
+			"bodies": [
+				2.4
+			],
+			"camera_size": 0.8,
+			"view_width": 70,
+			"view_height": 70,
+			"speed": 0.9,
+			"max_exp": 500
+		}, {
+			"level": 2,
+			"head": 4.15,
+			"bodies": [
+				3.15
+			],
+			"camera_size": 0.9,
+			"view_width": 85,
+			"view_height": 85,
+			"speed": 0.885,
+			"max_exp": 1520
+		}, {
+			"level": 3,
+			"head": 5.5,
+			"bodies": [
+				3.95
+			],
+			"camera_size": 1.0,
+			"view_width": 100,
+			"view_height": 100,
+			"speed": 0.87,
+			"max_exp": 3494
+		}, {
+			"level": 4,
+			"head": 6.35,
+			"bodies": [
+				5
+			],
+			"camera_size": 1.1,
+			"view_width": 110,
+			"view_height": 110,
+			"speed": 0.855,
+			"max_exp": 6993
+		}, {
+			"level": 5,
+			"head": 7.35,
+			"bodies": [
+				5.85
+			],
+			"camera_size": 1.2,
+			"view_width": 120,
+			"view_height": 120,
+			"speed": 0.84,
+			"max_exp": 13049
+		}, {
+			"level": 6,
+			"head": 10.5,
+			"bodies": [
+				8
+			],
+			"camera_size": 1.45,
+			"view_width": 145,
+			"view_height": 145,
+			"speed": 0.825,
+			"max_exp": 25767
+		}, {
+			"level": 7,
+			"head": 13.4,
+			"bodies": [
+				10.5
+			],
+			"camera_size": 1.7,
+			"view_width": 165,
+			"view_height": 165,
+			"speed": 0.81,
+			"max_exp": 50749
+		}, {
+			"level": 8,
+			"head": 16.25,
+			"bodies": [
+				13
+			],
+			"camera_size": 1.8,
+			"view_width": 180,
+			"view_height": 180,
+			"speed": 0.795,
+			"max_exp": 95717
+		}, {
+			"level": 9,
+			"head": 18.75,
+			"bodies": [
+				15
+			],
+			"camera_size": 1.9,
+			"view_width": 190,
+			"view_height": 190,
+			"speed": 0.78,
+			"max_exp": 174711
+		}, {
+			"level": 10,
+			"head": 20.75,
+			"bodies": [
+				16.75
+			],
+			"camera_size": 2.0,
+			"view_width": 200,
+			"view_height": 200,
+			"speed": 0.765,
+			"max_exp": 200000
+		}]
+	},
+	{
+		"skin": "skeleton",
+		"color_code": [0],
+		"levels": [{
+			"level": 1,
+			"head": 3.1,
+			"bodies": [
+				2.4
+			],
+			"camera_size": 0.8,
+			"view_width": 70,
+			"view_height": 70,
+			"speed": 0.9,
+			"max_exp": 500
+		}, {
+			"level": 2,
+			"head": 4.15,
+			"bodies": [
+				3.15
+			],
+			"camera_size": 0.9,
+			"view_width": 85,
+			"view_height": 85,
+			"speed": 0.885,
+			"max_exp": 1520
+		}, {
+			"level": 3,
+			"head": 5.5,
+			"bodies": [
+				3.95
+			],
+			"camera_size": 1.0,
+			"view_width": 100,
+			"view_height": 100,
+			"speed": 0.87,
+			"max_exp": 3494
+		}, {
+			"level": 4,
+			"head": 6.35,
+			"bodies": [
+				5
+			],
+			"camera_size": 1.1,
+			"view_width": 110,
+			"view_height": 110,
+			"speed": 0.855,
+			"max_exp": 6993
+		}, {
+			"level": 5,
+			"head": 7.35,
+			"bodies": [
+				5.85
+			],
+			"camera_size": 1.2,
+			"view_width": 120,
+			"view_height": 120,
+			"speed": 0.84,
+			"max_exp": 13049
+		}, {
+			"level": 6,
+			"head": 10.5,
+			"bodies": [
+				8
+			],
+			"camera_size": 1.45,
+			"view_width": 145,
+			"view_height": 145,
+			"speed": 0.825,
+			"max_exp": 25767
+		}, {
+			"level": 7,
+			"head": 13.4,
+			"bodies": [
+				10.5
+			],
+			"camera_size": 1.7,
+			"view_width": 165,
+			"view_height": 165,
+			"speed": 0.81,
+			"max_exp": 50749
+		}, {
+			"level": 8,
+			"head": 16.25,
+			"bodies": [
+				13
+			],
+			"camera_size": 1.8,
+			"view_width": 180,
+			"view_height": 180,
+			"speed": 0.795,
+			"max_exp": 95717
+		}, {
+			"level": 9,
+			"head": 18.75,
+			"bodies": [
+				15
+			],
+			"camera_size": 1.9,
+			"view_width": 190,
+			"view_height": 190,
+			"speed": 0.78,
+			"max_exp": 174711
+		}, {
+			"level": 10,
+			"head": 20.75,
+			"bodies": [
+				16.75
+			],
+			"camera_size": 2.0,
+			"view_width": 200,
+			"view_height": 200,
+			"speed": 0.765,
+			"max_exp": 200000
+		}]
+	},
+	{
+		"skin": "nemo_gold",
+		"color_code": [0],
+		"levels": [{
+			"level": 1,
+			"head": 3.1,
+			"bodies": [
+				2.4
+			],
+			"camera_size": 0.8,
+			"view_width": 70,
+			"view_height": 70,
+			"speed": 0.9,
+			"max_exp": 500
+		}, {
+			"level": 2,
+			"head": 4.15,
+			"bodies": [
+				3.15
+			],
+			"camera_size": 0.9,
+			"view_width": 85,
+			"view_height": 85,
+			"speed": 0.885,
+			"max_exp": 1520
+		}, {
+			"level": 3,
+			"head": 5.5,
+			"bodies": [
+				3.95
+			],
+			"camera_size": 1.0,
+			"view_width": 100,
+			"view_height": 100,
+			"speed": 0.87,
+			"max_exp": 3494
+		}, {
+			"level": 4,
+			"head": 6.35,
+			"bodies": [
+				5
+			],
+			"camera_size": 1.1,
+			"view_width": 110,
+			"view_height": 110,
+			"speed": 0.855,
+			"max_exp": 6993
+		}, {
+			"level": 5,
+			"head": 7.35,
+			"bodies": [
+				5.85
+			],
+			"camera_size": 1.2,
+			"view_width": 120,
+			"view_height": 120,
+			"speed": 0.84,
+			"max_exp": 13049
+		}, {
+			"level": 6,
+			"head": 10.5,
+			"bodies": [
+				8
+			],
+			"camera_size": 1.45,
+			"view_width": 145,
+			"view_height": 145,
+			"speed": 0.825,
+			"max_exp": 25767
+		}, {
+			"level": 7,
+			"head": 13.4,
+			"bodies": [
+				10.5
+			],
+			"camera_size": 1.7,
+			"view_width": 165,
+			"view_height": 165,
+			"speed": 0.81,
+			"max_exp": 50749
+		}, {
+			"level": 8,
+			"head": 16.25,
+			"bodies": [
+				13
+			],
+			"camera_size": 1.8,
+			"view_width": 180,
+			"view_height": 180,
+			"speed": 0.795,
+			"max_exp": 95717
+		}, {
+			"level": 9,
+			"head": 18.75,
+			"bodies": [
+				15
+			],
+			"camera_size": 1.9,
+			"view_width": 190,
+			"view_height": 190,
+			"speed": 0.78,
+			"max_exp": 174711
+		}, {
+			"level": 10,
+			"head": 20.75,
+			"bodies": [
+				16.75
+			],
+			"camera_size": 2.0,
+			"view_width": 200,
+			"view_height": 200,
+			"speed": 0.765,
+			"max_exp": 200000
+		}]
+	},
+	{
+		"skin": "nemo_silver",
+		"color_code": [0],
+		"levels": [{
+			"level": 1,
+			"head": 3.1,
+			"bodies": [
+				2.4
+			],
+			"camera_size": 0.8,
+			"view_width": 70,
+			"view_height": 70,
+			"speed": 0.9,
+			"max_exp": 500
+		}, {
+			"level": 2,
+			"head": 4.15,
+			"bodies": [
+				3.15
+			],
+			"camera_size": 0.9,
+			"view_width": 85,
+			"view_height": 85,
+			"speed": 0.885,
+			"max_exp": 1520
+		}, {
+			"level": 3,
+			"head": 5.5,
+			"bodies": [
+				3.95
+			],
+			"camera_size": 1.0,
+			"view_width": 100,
+			"view_height": 100,
+			"speed": 0.87,
+			"max_exp": 3494
+		}, {
+			"level": 4,
+			"head": 6.35,
+			"bodies": [
+				5
+			],
+			"camera_size": 1.1,
+			"view_width": 110,
+			"view_height": 110,
+			"speed": 0.855,
+			"max_exp": 6993
+		}, {
+			"level": 5,
+			"head": 7.35,
+			"bodies": [
+				5.85
+			],
+			"camera_size": 1.2,
+			"view_width": 120,
+			"view_height": 120,
+			"speed": 0.84,
+			"max_exp": 13049
+		}, {
+			"level": 6,
+			"head": 10.5,
+			"bodies": [
+				8
+			],
+			"camera_size": 1.45,
+			"view_width": 145,
+			"view_height": 145,
+			"speed": 0.825,
+			"max_exp": 25767
+		}, {
+			"level": 7,
+			"head": 13.4,
+			"bodies": [
+				10.5
+			],
+			"camera_size": 1.7,
+			"view_width": 165,
+			"view_height": 165,
+			"speed": 0.81,
+			"max_exp": 50749
+		}, {
+			"level": 8,
+			"head": 16.25,
+			"bodies": [
+				13
+			],
+			"camera_size": 1.8,
+			"view_width": 180,
+			"view_height": 180,
+			"speed": 0.795,
+			"max_exp": 95717
+		}, {
+			"level": 9,
+			"head": 18.75,
+			"bodies": [
+				15
+			],
+			"camera_size": 1.9,
+			"view_width": 190,
+			"view_height": 190,
+			"speed": 0.78,
+			"max_exp": 174711
+		}, {
+			"level": 10,
+			"head": 20.75,
+			"bodies": [
+				16.75
+			],
+			"camera_size": 2.0,
+			"view_width": 200,
+			"view_height": 200,
+			"speed": 0.765,
+			"max_exp": 200000
+		}]
+	},
+	{
+		"skin": "dory_gold",
+		"color_code": [0],
+		"levels": [{
+			"level": 1,
+			"head": 3.1,
+			"bodies": [
+				2.4
+			],
+			"camera_size": 0.8,
+			"view_width": 70,
+			"view_height": 70,
+			"speed": 0.9,
+			"max_exp": 500
+		}, {
+			"level": 2,
+			"head": 4.15,
+			"bodies": [
+				3.15
+			],
+			"camera_size": 0.9,
+			"view_width": 85,
+			"view_height": 85,
+			"speed": 0.885,
+			"max_exp": 1520
+		}, {
+			"level": 3,
+			"head": 5.5,
+			"bodies": [
+				3.95
+			],
+			"camera_size": 1.0,
+			"view_width": 100,
+			"view_height": 100,
+			"speed": 0.87,
+			"max_exp": 3494
+		}, {
+			"level": 4,
+			"head": 6.35,
+			"bodies": [
+				5
+			],
+			"camera_size": 1.1,
+			"view_width": 110,
+			"view_height": 110,
+			"speed": 0.855,
+			"max_exp": 6993
+		}, {
+			"level": 5,
+			"head": 7.35,
+			"bodies": [
+				5.85
+			],
+			"camera_size": 1.2,
+			"view_width": 120,
+			"view_height": 120,
+			"speed": 0.84,
+			"max_exp": 13049
+		}, {
+			"level": 6,
+			"head": 10.5,
+			"bodies": [
+				8
+			],
+			"camera_size": 1.45,
+			"view_width": 145,
+			"view_height": 145,
+			"speed": 0.825,
+			"max_exp": 25767
+		}, {
+			"level": 7,
+			"head": 13.4,
+			"bodies": [
+				10.5
+			],
+			"camera_size": 1.7,
+			"view_width": 165,
+			"view_height": 165,
+			"speed": 0.81,
+			"max_exp": 50749
+		}, {
+			"level": 8,
+			"head": 16.25,
+			"bodies": [
+				13
+			],
+			"camera_size": 1.8,
+			"view_width": 180,
+			"view_height": 180,
+			"speed": 0.795,
+			"max_exp": 95717
+		}, {
+			"level": 9,
+			"head": 18.75,
+			"bodies": [
+				15
+			],
+			"camera_size": 1.9,
+			"view_width": 190,
+			"view_height": 190,
+			"speed": 0.78,
+			"max_exp": 174711
+		}, {
+			"level": 10,
+			"head": 20.75,
+			"bodies": [
+				16.75
+			],
+			"camera_size": 2.0,
+			"view_width": 200,
+			"view_height": 200,
+			"speed": 0.765,
+			"max_exp": 200000
+		}]
+	},
+	{
+		"skin": "dory_silver",
+		"color_code": [0],
+		"levels": [{
+			"level": 1,
+			"head": 3.1,
+			"bodies": [
+				2.4
+			],
+			"camera_size": 0.8,
+			"view_width": 70,
+			"view_height": 70,
+			"speed": 0.9,
+			"max_exp": 500
+		}, {
+			"level": 2,
+			"head": 4.15,
+			"bodies": [
+				3.15
+			],
+			"camera_size": 0.9,
+			"view_width": 85,
+			"view_height": 85,
+			"speed": 0.885,
+			"max_exp": 1520
+		}, {
+			"level": 3,
+			"head": 5.5,
+			"bodies": [
+				3.95
+			],
+			"camera_size": 1.0,
+			"view_width": 100,
+			"view_height": 100,
+			"speed": 0.87,
+			"max_exp": 3494
+		}, {
+			"level": 4,
+			"head": 6.35,
+			"bodies": [
+				5
+			],
+			"camera_size": 1.1,
+			"view_width": 110,
+			"view_height": 110,
+			"speed": 0.855,
+			"max_exp": 6993
+		}, {
+			"level": 5,
+			"head": 7.35,
+			"bodies": [
+				5.85
+			],
+			"camera_size": 1.2,
+			"view_width": 120,
+			"view_height": 120,
+			"speed": 0.84,
+			"max_exp": 13049
+		}, {
+			"level": 6,
+			"head": 10.5,
+			"bodies": [
+				8
+			],
+			"camera_size": 1.45,
+			"view_width": 145,
+			"view_height": 145,
+			"speed": 0.825,
+			"max_exp": 25767
+		}, {
+			"level": 7,
+			"head": 13.4,
+			"bodies": [
+				10.5
+			],
+			"camera_size": 1.7,
+			"view_width": 165,
+			"view_height": 165,
+			"speed": 0.81,
+			"max_exp": 50749
+		}, {
+			"level": 8,
+			"head": 16.25,
+			"bodies": [
+				13
+			],
+			"camera_size": 1.8,
+			"view_width": 180,
+			"view_height": 180,
+			"speed": 0.795,
+			"max_exp": 95717
+		}, {
+			"level": 9,
+			"head": 18.75,
+			"bodies": [
+				15
+			],
+			"camera_size": 1.9,
+			"view_width": 190,
+			"view_height": 190,
+			"speed": 0.78,
+			"max_exp": 174711
+		}, {
+			"level": 10,
+			"head": 20.75,
+			"bodies": [
+				16.75
+			],
+			"camera_size": 2.0,
+			"view_width": 200,
+			"view_height": 200,
+			"speed": 0.765,
+			"max_exp": 200000
+		}]
+	},
+	{
+		"skin": "angler",
+		"color_code": [0, 31, 32, 33, 34, 35],
+		"levels": [{
+			"level": 1,
+			"head": 3.1,
+			"bodies": [
+				2.4
+			],
+			"camera_size": 0.8,
+			"view_width": 70,
+			"view_height": 70,
+			"speed": 0.9,
+			"max_exp": 500
+		}, {
+			"level": 2,
+			"head": 4.15,
+			"bodies": [
+				3.15
+			],
+			"camera_size": 0.9,
+			"view_width": 85,
+			"view_height": 85,
+			"speed": 0.885,
+			"max_exp": 1520
+		}, {
+			"level": 3,
+			"head": 5.5,
+			"bodies": [
+				3.95
+			],
+			"camera_size": 1.0,
+			"view_width": 100,
+			"view_height": 100,
+			"speed": 0.87,
+			"max_exp": 3494
+		}, {
+			"level": 4,
+			"head": 6.35,
+			"bodies": [
+				5
+			],
+			"camera_size": 1.1,
+			"view_width": 110,
+			"view_height": 110,
+			"speed": 0.855,
+			"max_exp": 6993
+		}, {
+			"level": 5,
+			"head": 7.35,
+			"bodies": [
+				5.85
+			],
+			"camera_size": 1.2,
+			"view_width": 120,
+			"view_height": 120,
+			"speed": 0.84,
+			"max_exp": 13049
+		}, {
+			"level": 6,
+			"head": 10.5,
+			"bodies": [
+				8
+			],
+			"camera_size": 1.45,
+			"view_width": 145,
+			"view_height": 145,
+			"speed": 0.825,
+			"max_exp": 25767
+		}, {
+			"level": 7,
+			"head": 13.4,
+			"bodies": [
+				10.5
+			],
+			"camera_size": 1.7,
+			"view_width": 165,
+			"view_height": 165,
+			"speed": 0.81,
+			"max_exp": 50749
+		}, {
+			"level": 8,
+			"head": 16.25,
+			"bodies": [
+				13
+			],
+			"camera_size": 1.8,
+			"view_width": 180,
+			"view_height": 180,
+			"speed": 0.795,
+			"max_exp": 95717
+		}, {
+			"level": 9,
+			"head": 18.75,
+			"bodies": [
+				15
+			],
+			"camera_size": 1.9,
+			"view_width": 190,
+			"view_height": 190,
+			"speed": 0.78,
+			"max_exp": 174711
+		}, {
+			"level": 10,
+			"head": 20.75,
+			"bodies": [
+				16.75
+			],
+			"camera_size": 2.0,
+			"view_width": 200,
+			"view_height": 200,
+			"speed": 0.765,
+			"max_exp": 200000
+		}]
+	},
+	{
+		"skin": "angler_gold",
+		"color_code": [0],
+		"levels": [{
+			"level": 1,
+			"head": 3.1,
+			"bodies": [
+				2.4
+			],
+			"camera_size": 0.8,
+			"view_width": 70,
+			"view_height": 70,
+			"speed": 0.9,
+			"max_exp": 500
+		}, {
+			"level": 2,
+			"head": 4.15,
+			"bodies": [
+				3.15
+			],
+			"camera_size": 0.9,
+			"view_width": 85,
+			"view_height": 85,
+			"speed": 0.885,
+			"max_exp": 1520
+		}, {
+			"level": 3,
+			"head": 5.5,
+			"bodies": [
+				3.95
+			],
+			"camera_size": 1.0,
+			"view_width": 100,
+			"view_height": 100,
+			"speed": 0.87,
+			"max_exp": 3494
+		}, {
+			"level": 4,
+			"head": 6.35,
+			"bodies": [
+				5
+			],
+			"camera_size": 1.1,
+			"view_width": 110,
+			"view_height": 110,
+			"speed": 0.855,
+			"max_exp": 6993
+		}, {
+			"level": 5,
+			"head": 7.35,
+			"bodies": [
+				5.85
+			],
+			"camera_size": 1.2,
+			"view_width": 120,
+			"view_height": 120,
+			"speed": 0.84,
+			"max_exp": 13049
+		}, {
+			"level": 6,
+			"head": 10.5,
+			"bodies": [
+				8
+			],
+			"camera_size": 1.45,
+			"view_width": 145,
+			"view_height": 145,
+			"speed": 0.825,
+			"max_exp": 25767
+		}, {
+			"level": 7,
+			"head": 13.4,
+			"bodies": [
+				10.5
+			],
+			"camera_size": 1.7,
+			"view_width": 165,
+			"view_height": 165,
+			"speed": 0.81,
+			"max_exp": 50749
+		}, {
+			"level": 8,
+			"head": 16.25,
+			"bodies": [
+				13
+			],
+			"camera_size": 1.8,
+			"view_width": 180,
+			"view_height": 180,
+			"speed": 0.795,
+			"max_exp": 95717
+		}, {
+			"level": 9,
+			"head": 18.75,
+			"bodies": [
+				15
+			],
+			"camera_size": 1.9,
+			"view_width": 190,
+			"view_height": 190,
+			"speed": 0.78,
+			"max_exp": 174711
+		}, {
+			"level": 10,
+			"head": 20.75,
+			"bodies": [
+				16.75
+			],
+			"camera_size": 2.0,
+			"view_width": 200,
+			"view_height": 200,
+			"speed": 0.765,
+			"max_exp": 200000
+		}]
+	},
+	{
+		"skin": "angler_silver",
+		"color_code": [0],
+		"levels": [{
+			"level": 1,
+			"head": 3.1,
+			"bodies": [
+				2.4
+			],
+			"camera_size": 0.8,
+			"view_width": 70,
+			"view_height": 70,
+			"speed": 0.9,
+			"max_exp": 500
+		}, {
+			"level": 2,
+			"head": 4.15,
+			"bodies": [
+				3.15
+			],
+			"camera_size": 0.9,
+			"view_width": 85,
+			"view_height": 85,
+			"speed": 0.885,
+			"max_exp": 1520
+		}, {
+			"level": 3,
+			"head": 5.5,
+			"bodies": [
+				3.95
+			],
+			"camera_size": 1.0,
+			"view_width": 100,
+			"view_height": 100,
+			"speed": 0.87,
+			"max_exp": 3494
+		}, {
+			"level": 4,
+			"head": 6.35,
+			"bodies": [
+				5
+			],
+			"camera_size": 1.1,
+			"view_width": 110,
+			"view_height": 110,
+			"speed": 0.855,
+			"max_exp": 6993
+		}, {
+			"level": 5,
+			"head": 7.35,
+			"bodies": [
+				5.85
+			],
+			"camera_size": 1.2,
+			"view_width": 120,
+			"view_height": 120,
+			"speed": 0.84,
+			"max_exp": 13049
+		}, {
+			"level": 6,
+			"head": 10.5,
+			"bodies": [
+				8
+			],
+			"camera_size": 1.45,
+			"view_width": 145,
+			"view_height": 145,
+			"speed": 0.825,
+			"max_exp": 25767
+		}, {
+			"level": 7,
+			"head": 13.4,
+			"bodies": [
+				10.5
+			],
+			"camera_size": 1.7,
+			"view_width": 165,
+			"view_height": 165,
+			"speed": 0.81,
+			"max_exp": 50749
+		}, {
+			"level": 8,
+			"head": 16.25,
+			"bodies": [
+				13
+			],
+			"camera_size": 1.8,
+			"view_width": 180,
+			"view_height": 180,
+			"speed": 0.795,
+			"max_exp": 95717
+		}, {
+			"level": 9,
+			"head": 18.75,
+			"bodies": [
+				15
+			],
+			"camera_size": 1.9,
+			"view_width": 190,
+			"view_height": 190,
+			"speed": 0.78,
+			"max_exp": 174711
+		}, {
+			"level": 10,
+			"head": 20.75,
+			"bodies": [
+				16.75
+			],
+			"camera_size": 2.0,
+			"view_width": 200,
+			"view_height": 200,
+			"speed": 0.765,
+			"max_exp": 200000
+		}]
+	}],
+	"food_size": 4,
+	"predator_size":[
+    		{
+        		"skin":"squid",
+        		"radius": 50
+			},
+			{
+				"skin":"shark",
+				"radius": 50
+			}
+		]
+}

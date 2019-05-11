@@ -1,0 +1,97 @@
+
+6 sliced.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: false
+  xy: 2, 247
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+glow 1
+  rotate: false
+  xy: 308, 472
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+glow 11
+  rotate: false
+  xy: 308, 472
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+glow 10
+  rotate: false
+  xy: 305, 400
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+glow 2
+  rotate: false
+  xy: 264, 296
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+glow 3
+  rotate: false
+  xy: 349, 475
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+glow 4
+  rotate: false
+  xy: 305, 435
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+glow 5
+  rotate: false
+  xy: 264, 472
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+glow 6
+  rotate: false
+  xy: 264, 318
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+glow 7
+  rotate: false
+  xy: 264, 432
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+glow 8
+  rotate: false
+  xy: 264, 392
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+glow 9
+  rotate: false
+  xy: 264, 353
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+tresure chest
+  rotate: false
+  xy: 2, 2
+  size: 260, 243
+  orig: 260, 243
+  offset: 0, 0
+  index: -1

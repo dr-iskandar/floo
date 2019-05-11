@@ -1,0 +1,27 @@
+
+exclamation mark2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+warning_1
+  rotate: false
+  xy: 2, 120
+  size: 380, 345
+  orig: 382, 347
+  offset: 1, 1
+  index: -1
+warning_2
+  rotate: true
+  xy: 2, 2
+  size: 116, 303
+  orig: 118, 305
+  offset: 1, 1
+  index: -1
+warning_3
+  rotate: false
+  xy: 384, 388
+  size: 76, 77
+  orig: 78, 79
+  offset: 1, 1
+  index: -1

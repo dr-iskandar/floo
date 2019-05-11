@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: ceb835beaff4fb84c809f9efab9bd34c
+timeCreated: 1478597697
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bar_exp
+    21300002: btn_blue
+    21300004: btn_close
+    21300006: btn_credit
+    21300008: btn_green
+    21300010: btn_nos_active
+    21300012: btn_nos_deactive
+    21300014: btn_off
+    21300016: btn_on
+    21300018: btn_red
+    21300020: controller
+    21300022: controller_mid
+    21300024: frame_exp
+    21300026: frame_loadingbar
+    21300028: frame_loadingbar_fill
+    21300030: frame_points
+    21300032: icon_eat
+    21300034: icon_goldshell
+    21300036: icon_lv
+    21300038: icon_share
+    21300040: icon_time
+    21300042: title_loading
+    21300044: title_option
+    21300046: title_result
+    21300048: btn_option
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bar_exp
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1242
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_blue
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1123
+        width: 412
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_close
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1009
+        width: 196
+        height: 231
+      alignment: 9
+      pivot: {x: 0.49744898, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_credit
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 955
+        width: 400
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_green
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 982
+        width: 399
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_nos_active
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1445
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_nos_deactive
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1073
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_off
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1784
+        width: 238
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_on
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1666
+        width: 238
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_option
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 776
+        width: 196
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: btn_red
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 840
+        width: 398
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: controller
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 391
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: controller_mid
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 759
+        width: 195
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: frame_exp
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1909
+        width: 140
+        height: 138
+      alignment: 9
+      pivot: {x: 0.50357145, y: 0.4963768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: frame_loadingbar
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1975
+        width: 840
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: frame_loadingbar_fill
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1939
+        width: 758
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: frame_points
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1294
+        width: 354
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31879196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_eat
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1902
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_goldshell
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1345
+        width: 130
+        height: 120
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0.48333332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_lv
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1583
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_share
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1889
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: icon_time
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1704
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: title_loading
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1265
+        width: 530
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: title_option
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1703
+        width: 714
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: title_result
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1467
+        width: 714
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

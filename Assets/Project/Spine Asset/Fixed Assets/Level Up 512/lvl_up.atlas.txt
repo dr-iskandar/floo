@@ -1,0 +1,97 @@
+
+lvl_up.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold_back_glow
+  rotate: false
+  xy: 2, 55
+  size: 757, 947
+  orig: 757, 947
+  offset: 0, 0
+  index: -1
+gold_back_glow copy
+  rotate: false
+  xy: 2, 2
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+gold_back_glow copy 10
+  rotate: false
+  xy: 919, 810
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+gold_back_glow copy 11
+  rotate: false
+  xy: 919, 810
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+gold_back_glow copy 2
+  rotate: false
+  xy: 761, 455
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+gold_back_glow copy 3
+  rotate: false
+  xy: 919, 907
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+gold_back_glow copy 4
+  rotate: false
+  xy: 761, 305
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+gold_back_glow copy 5
+  rotate: false
+  xy: 839, 402
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+gold_back_glow copy 6
+  rotate: false
+  xy: 919, 757
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+gold_back_glow copy 7
+  rotate: false
+  xy: 45, 2
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+gold_back_glow copy 8
+  rotate: false
+  xy: 761, 358
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+gold_back_glow copy 9
+  rotate: false
+  xy: 839, 455
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+lvl up
+  rotate: true
+  xy: 761, 552
+  size: 450, 156
+  orig: 450, 156
+  offset: 0, 0
+  index: -1

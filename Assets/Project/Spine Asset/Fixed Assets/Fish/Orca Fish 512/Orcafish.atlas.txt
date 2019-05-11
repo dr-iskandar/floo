@@ -1,0 +1,885 @@
+
+Orcafish.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Orcafish_Level01_Body
+  rotate: true
+  xy: 2, 233
+  size: 143, 249
+  orig: 143, 249
+  offset: 0, 0
+  index: -1
+Orcafish_Level02_Body
+  rotate: true
+  xy: 2, 88
+  size: 143, 249
+  orig: 143, 249
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Tail02
+  rotate: false
+  xy: 134, 3
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Fin02_Front_Left
+  rotate: false
+  xy: 365, 3
+  size: 127, 82
+  orig: 127, 82
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Fin01_Front_Left
+  rotate: false
+  xy: 2, 3
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Fin01_Front_Right
+  rotate: false
+  xy: 233, 2
+  size: 130, 83
+  orig: 130, 83
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Fin01_Front_Left
+  rotate: true
+  xy: 408, 162
+  size: 175, 95
+  orig: 175, 95
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Tail02
+  rotate: false
+  xy: 408, 89
+  size: 99, 71
+  orig: 99, 71
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Tail01
+  rotate: true
+  xy: 253, 87
+  size: 289, 153
+  orig: 289, 153
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Tail01
+  rotate: false
+  xy: 2, 378
+  size: 418, 132
+  orig: 418, 132
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Tail02
+  rotate: true
+  xy: 422, 339
+  size: 171, 88
+  orig: 171, 88
+  offset: 0, 0
+  index: -1
+
+Orcafish2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Orcafish_Level01_Tail02
+  rotate: false
+  xy: 479, 89
+  size: 31, 97
+  orig: 31, 97
+  offset: 0, 0
+  index: -1
+Orcafish_Level02_Fin02_Front_Left
+  rotate: false
+  xy: 401, 178
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+Orcafish_Level02_Fin02_Front_Right
+  rotate: false
+  xy: 401, 129
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+Orcafish_Level03_Fin02_Front_Left
+  rotate: true
+  xy: 401, 2
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Body
+  rotate: false
+  xy: 2, 261
+  size: 143, 249
+  orig: 143, 249
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Fin01_Back_Left
+  rotate: false
+  xy: 482, 230
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Fin01_Back_Right
+  rotate: false
+  xy: 482, 188
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Body
+  rotate: false
+  xy: 2, 10
+  size: 143, 249
+  orig: 143, 249
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Fin01_Back_Left
+  rotate: false
+  xy: 482, 314
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Fin01_Back_Right
+  rotate: false
+  xy: 482, 272
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Fin02_Front_Right
+  rotate: true
+  xy: 398, 227
+  size: 127, 82
+  orig: 127, 82
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Body
+  rotate: true
+  xy: 147, 367
+  size: 143, 249
+  orig: 143, 249
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Fin01_Back_Left
+  rotate: true
+  xy: 460, 51
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Fin01_Back_Right
+  rotate: true
+  xy: 460, 13
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Fin02_Front_Left
+  rotate: false
+  xy: 401, 91
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Tail01
+  rotate: true
+  xy: 398, 356
+  size: 154, 112
+  orig: 154, 112
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Body
+  rotate: true
+  xy: 147, 222
+  size: 143, 249
+  orig: 143, 249
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Fin01_Front_Left
+  rotate: true
+  xy: 147, 10
+  size: 210, 125
+  orig: 210, 125
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Fin01_Front_Right
+  rotate: true
+  xy: 274, 10
+  size: 210, 125
+  orig: 210, 125
+  offset: 0, 0
+  index: -1
+
+Orcafish3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Orcafish_Level03_Body
+  rotate: true
+  xy: 147, 366
+  size: 143, 248
+  orig: 143, 248
+  offset: 0, 0
+  index: -1
+Orcafish_Level03_Iris_Left
+  rotate: false
+  xy: 354, 13
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Eyebrow_Left
+  rotate: true
+  xy: 288, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Eyebrow_Left
+  rotate: true
+  xy: 288, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Eyebrow_Left
+  rotate: true
+  xy: 288, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Eyebrow_Left
+  rotate: true
+  xy: 288, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Eyebrow_Left
+  rotate: true
+  xy: 288, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Eyebrow_Left
+  rotate: true
+  xy: 288, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Eyebrow_Left
+  rotate: true
+  xy: 288, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Eyebrow_Right
+  rotate: true
+  xy: 321, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Eyebrow_Right
+  rotate: true
+  xy: 321, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Eyebrow_Right
+  rotate: true
+  xy: 321, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Eyebrow_Right
+  rotate: true
+  xy: 321, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Eyebrow_Right
+  rotate: true
+  xy: 321, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Eyebrow_Right
+  rotate: true
+  xy: 321, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Eyebrow_Right
+  rotate: true
+  xy: 321, 2
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Tail01
+  rotate: false
+  xy: 385, 16
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Body
+  rotate: true
+  xy: 147, 221
+  size: 143, 248
+  orig: 143, 248
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Fin01_Front_Right
+  rotate: true
+  xy: 288, 44
+  size: 175, 95
+  orig: 175, 95
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Tail01
+  rotate: true
+  xy: 147, 13
+  size: 206, 139
+  orig: 206, 139
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Body
+  rotate: false
+  xy: 2, 260
+  size: 143, 249
+  orig: 143, 249
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Fin01_Front_Left
+  rotate: true
+  xy: 397, 311
+  size: 198, 113
+  orig: 198, 113
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Fin01_Front_Right
+  rotate: true
+  xy: 397, 111
+  size: 198, 113
+  orig: 198, 113
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Body
+  rotate: false
+  xy: 2, 9
+  size: 143, 249
+  orig: 143, 249
+  offset: 0, 0
+  index: -1
+
+Orcafish4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Orcafish_Level01_Eyeball_Left
+  rotate: false
+  xy: 258, 115
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Orcafish_Level01_Eyeball_Right
+  rotate: false
+  xy: 408, 256
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Orcafish_Level01_Fin02_Front_Left
+  rotate: true
+  xy: 233, 33
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+Orcafish_Level01_Fin02_Front_Right
+  rotate: true
+  xy: 277, 44
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+Orcafish_Level01_Iris_Left
+  rotate: false
+  xy: 471, 278
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Orcafish_Level01_Iris_Right
+  rotate: false
+  xy: 471, 237
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Orcafish_Level02_Eyeball_Left
+  rotate: false
+  xy: 321, 8
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Orcafish_Level02_Eyeball_Right
+  rotate: false
+  xy: 404, 203
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Orcafish_Level02_Iris_Left
+  rotate: false
+  xy: 156, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Orcafish_Level02_Iris_Right
+  rotate: false
+  xy: 191, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Orcafish_Level02_Tail02
+  rotate: false
+  xy: 414, 319
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+Orcafish_Level03_Eyeball_Left
+  rotate: false
+  xy: 333, 200
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Orcafish_Level03_Eyeball_Right
+  rotate: false
+  xy: 359, 152
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Orcafish_Level03_Fin02_Front_Right
+  rotate: false
+  xy: 414, 378
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+Orcafish_Level03_Iris_Right
+  rotate: false
+  xy: 226, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Orcafish_Level03_Tail02
+  rotate: true
+  xy: 78, 127
+  size: 140, 81
+  orig: 140, 81
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Eyeball_Left
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Eyeball_Right
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Eyeball_Left
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Eyeball_Right
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Eyeball_Left
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Eyeball_Right
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Eyeball_Left
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Eyeball_Right
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Eyeball_Left
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Eyeball_Right
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Eyeball_Left
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Eyeball_Right
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Eyeball_Left
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Eyeball_Right
+  rotate: false
+  xy: 407, 166
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Fin02_Front_Left
+  rotate: true
+  xy: 2, 8
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Fin02_Front_Right
+  rotate: true
+  xy: 79, 10
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Iris_Left
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level04_Iris_Right
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Iris_Left
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Iris_Right
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Iris_Left
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Iris_Right
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Iris_Left
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Iris_Right
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Iris_Left
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Iris_Right
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Iris_Left
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Iris_Right
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Iris_Left
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Iris_Right
+  rotate: false
+  xy: 359, 128
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Orcafish_Level05_Tail02
+  rotate: false
+  xy: 2, 419
+  size: 139, 90
+  orig: 139, 90
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Fin02_Front_Right
+  rotate: true
+  xy: 321, 117
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+Orcafish_Level06_Tail02
+  rotate: false
+  xy: 321, 61
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Fin01_Back_Left
+  rotate: true
+  xy: 457, 189
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Fin01_Back_Right
+  rotate: false
+  xy: 374, 11
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Fin01_Front_Left
+  rotate: true
+  xy: 165, 296
+  size: 137, 81
+  orig: 137, 81
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Fin01_Front_Right
+  rotate: true
+  xy: 248, 296
+  size: 137, 81
+  orig: 137, 81
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Fin02_Front_Left
+  rotate: false
+  xy: 161, 200
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Fin02_Front_Right
+  rotate: false
+  xy: 161, 151
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+Orcafish_Level07_Tail02
+  rotate: false
+  xy: 331, 366
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Fin01_Back_Left
+  rotate: false
+  xy: 262, 245
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Fin01_Back_Right
+  rotate: false
+  xy: 333, 248
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Fin02_Front_Left
+  rotate: false
+  xy: 165, 249
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+Orcafish_Level08_Fin02_Front_Right
+  rotate: false
+  xy: 161, 104
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Fin01_Back_Left
+  rotate: true
+  xy: 443, 437
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Fin01_Back_Right
+  rotate: false
+  xy: 257, 178
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Fin02_Front_Left
+  rotate: false
+  xy: 293, 437
+  size: 148, 72
+  orig: 148, 72
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Fin02_Front_Right
+  rotate: true
+  xy: 91, 269
+  size: 148, 72
+  orig: 148, 72
+  offset: 0, 0
+  index: -1
+Orcafish_Level09_Tail02
+  rotate: true
+  xy: 2, 275
+  size: 142, 87
+  orig: 142, 87
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Fin01_Back_Left
+  rotate: false
+  xy: 331, 299
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Fin01_Back_Right
+  rotate: false
+  xy: 156, 37
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Fin02_Front_Left
+  rotate: false
+  xy: 143, 435
+  size: 148, 74
+  orig: 148, 74
+  offset: 0, 0
+  index: -1
+Orcafish_Level10_Fin02_Front_Right
+  rotate: true
+  xy: 2, 125
+  size: 148, 74
+  orig: 148, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+Shark render.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shark_body
+  rotate: false
+  xy: 2, 21
+  size: 146, 482
+  orig: 146, 482
+  offset: 0, 0
+  index: -1
+shark_body2
+  rotate: false
+  xy: 150, 83
+  size: 171, 420
+  orig: 171, 420
+  offset: 0, 0
+  index: -1
+shark_eyeball_left
+  rotate: false
+  xy: 449, 295
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+shark_eyeball_right
+  rotate: false
+  xy: 323, 116
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+shark_fin_left
+  rotate: false
+  xy: 323, 411
+  size: 169, 92
+  orig: 169, 92
+  offset: 0, 0
+  index: -1
+shark_fin_right
+  rotate: false
+  xy: 323, 317
+  size: 169, 92
+  orig: 169, 92
+  offset: 0, 0
+  index: -1
+shark_iris_left
+  rotate: false
+  xy: 403, 209
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+shark_iris_right
+  rotate: false
+  xy: 2, 2
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+shark_mouth_inside
+  rotate: false
+  xy: 323, 228
+  size: 124, 87
+  orig: 124, 87
+  offset: 0, 0
+  index: -1
+shark_tailfin_left
+  rotate: false
+  xy: 323, 138
+  size: 78, 88
+  orig: 78, 88
+  offset: 0, 0
+  index: -1
+shark_tailfin_right
+  rotate: true
+  xy: 150, 3
+  size: 78, 88
+  orig: 78, 88
+  offset: 0, 0
+  index: -1

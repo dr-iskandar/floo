@@ -1,0 +1,20 @@
+
+point.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow 1
+  rotate: false
+  xy: 2, 2
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+glow 2
+  rotate: false
+  xy: 2, 81
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1

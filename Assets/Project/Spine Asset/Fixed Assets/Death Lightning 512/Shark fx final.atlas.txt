@@ -1,0 +1,62 @@
+
+Shark fx final.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning_01
+  rotate: false
+  xy: 347, 97
+  size: 135, 126
+  orig: 135, 126
+  offset: 0, 0
+  index: -1
+lightning_02
+  rotate: true
+  xy: 248, 225
+  size: 136, 152
+  orig: 136, 152
+  offset: 0, 0
+  index: -1
+lightning_03
+  rotate: false
+  xy: 248, 363
+  size: 174, 145
+  orig: 174, 145
+  offset: 0, 0
+  index: -1
+lightning_04
+  rotate: false
+  xy: 196, 107
+  size: 149, 116
+  orig: 149, 116
+  offset: 0, 0
+  index: -1
+lightning_05
+  rotate: true
+  xy: 402, 254
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+lightning_06
+  rotate: false
+  xy: 196, 2
+  size: 123, 103
+  orig: 123, 103
+  offset: 0, 0
+  index: -1
+lightning_big_01
+  rotate: false
+  xy: 2, 60
+  size: 192, 215
+  orig: 192, 215
+  offset: 0, 0
+  index: -1
+lightning_big_02
+  rotate: false
+  xy: 2, 277
+  size: 244, 231
+  orig: 244, 231
+  offset: 0, 0
+  index: -1

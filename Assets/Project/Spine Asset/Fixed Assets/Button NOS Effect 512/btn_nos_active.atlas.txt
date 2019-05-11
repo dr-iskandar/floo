@@ -1,0 +1,20 @@
+
+btn_nos_active.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow glow
+  rotate: true
+  xy: 308, 303
+  size: 205, 153
+  orig: 205, 153
+  offset: 0, 0
+  index: -1
+laser glow
+  rotate: false
+  xy: 2, 2
+  size: 304, 506
+  orig: 304, 506
+  offset: 0, 0
+  index: -1

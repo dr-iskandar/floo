@@ -1,0 +1,34 @@
+
+1 sliced.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow 1
+  rotate: false
+  xy: 283, 384
+  size: 142, 126
+  orig: 142, 126
+  offset: 0, 0
+  index: -1
+glow 2
+  rotate: false
+  xy: 2, 2
+  size: 137, 119
+  orig: 137, 119
+  offset: 0, 0
+  index: -1
+glow 3
+  rotate: false
+  xy: 2, 123
+  size: 215, 143
+  orig: 215, 143
+  offset: 0, 0
+  index: -1
+kerang
+  rotate: false
+  xy: 2, 268
+  size: 279, 242
+  orig: 279, 242
+  offset: 0, 0
+  index: -1

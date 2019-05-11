@@ -1,0 +1,794 @@
+
+Dragonfish_slicing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragonfish_Level02_Body
+  rotate: false
+  xy: 357, 48
+  size: 149, 270
+  orig: 149, 270
+  offset: 0, 0
+  index: -1
+Dragonfish_Level02_Tail
+  rotate: true
+  xy: 120, 8
+  size: 38, 112
+  orig: 38, 112
+  offset: 0, 0
+  index: -1
+Dragonfish_Level04_Fin_Left
+  rotate: false
+  xy: 274, 13
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+Dragonfish_Level04_Tail
+  rotate: false
+  xy: 274, 95
+  size: 79, 143
+  orig: 79, 143
+  offset: 0, 0
+  index: -1
+Dragonfish_Level05_Iris_Left
+  rotate: false
+  xy: 467, 4
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Dragonfish_Level05_Tail
+  rotate: true
+  xy: 194, 240
+  size: 78, 161
+  orig: 78, 161
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Iris_Left
+  rotate: false
+  xy: 234, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Iris_Right
+  rotate: false
+  xy: 234, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Iris_Left
+  rotate: false
+  xy: 234, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Iris_Right
+  rotate: false
+  xy: 234, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Iris_Left
+  rotate: false
+  xy: 234, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Iris_Right
+  rotate: false
+  xy: 234, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Iris_Left
+  rotate: false
+  xy: 234, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Iris_Right
+  rotate: false
+  xy: 234, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Iris_Left
+  rotate: false
+  xy: 234, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Iris_Right
+  rotate: false
+  xy: 234, 7
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Body
+  rotate: false
+  xy: 2, 240
+  size: 190, 270
+  orig: 190, 270
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Fin_Back_Left
+  rotate: true
+  xy: 403, 4
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Body
+  rotate: true
+  xy: 2, 48
+  size: 190, 270
+  orig: 190, 270
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Body
+  rotate: true
+  xy: 194, 320
+  size: 190, 270
+  orig: 190, 270
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Fin02_Back_Left
+  rotate: false
+  xy: 466, 330
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Fin02_Back_Right
+  rotate: true
+  xy: 339, 2
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Whiskers_Left
+  rotate: true
+  xy: 466, 394
+  size: 116, 44
+  orig: 116, 44
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Whiskers_Right
+  rotate: false
+  xy: 2, 2
+  size: 116, 44
+  orig: 116, 44
+  offset: 0, 0
+  index: -1
+
+Dragonfish_slicing2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragonfish_Level01_Body
+  rotate: true
+  xy: 231, 77
+  size: 161, 270
+  orig: 161, 270
+  offset: 0, 0
+  index: -1
+Dragonfish_Level01_Eyeball_Left
+  rotate: false
+  xy: 243, 6
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+Dragonfish_Level01_Eyeball_Right
+  rotate: false
+  xy: 314, 6
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+Dragonfish_Level02_Fin_Left
+  rotate: true
+  xy: 433, 240
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+Dragonfish_Level05_Fin_Back_Left
+  rotate: true
+  xy: 463, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Dragonfish_Level05_Fin_Left
+  rotate: false
+  xy: 433, 291
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Body
+  rotate: false
+  xy: 2, 240
+  size: 163, 270
+  orig: 163, 270
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Eyeball_Left
+  rotate: false
+  xy: 139, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Eyeball_Left
+  rotate: false
+  xy: 139, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Eyeball_Left
+  rotate: false
+  xy: 139, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Eyeball_Left
+  rotate: false
+  xy: 139, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Eyeball_Left
+  rotate: false
+  xy: 139, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Eyeball_Right
+  rotate: false
+  xy: 191, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Eyeball_Right
+  rotate: false
+  xy: 191, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Eyeball_Right
+  rotate: false
+  xy: 191, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Eyeball_Right
+  rotate: false
+  xy: 191, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Eyeball_Right
+  rotate: false
+  xy: 191, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Fin_Back_Left
+  rotate: false
+  xy: 463, 35
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Tail
+  rotate: true
+  xy: 332, 385
+  size: 125, 172
+  orig: 125, 172
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Body
+  rotate: false
+  xy: 167, 240
+  size: 163, 270
+  orig: 163, 270
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Fin_Left
+  rotate: false
+  xy: 332, 246
+  size: 99, 137
+  orig: 99, 137
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Tail
+  rotate: false
+  xy: 139, 54
+  size: 90, 184
+  orig: 90, 184
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Tail
+  rotate: false
+  xy: 2, 8
+  size: 135, 230
+  orig: 135, 230
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Whisker_Left
+  rotate: true
+  xy: 385, 6
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Whisker_Right
+  rotate: true
+  xy: 424, 6
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+
+Dragonfish_slicing3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragonfish_Level01_Iris_Left
+  rotate: true
+  xy: 450, 182
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Dragonfish_Level01_Iris_Right
+  rotate: true
+  xy: 450, 124
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Dragonfish_Level02_Eyeball_Left
+  rotate: false
+  xy: 2, 9
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+Dragonfish_Level02_Eyeball_Right
+  rotate: false
+  xy: 70, 9
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+Dragonfish_Level02_Fin_Right
+  rotate: true
+  xy: 455, 461
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+Dragonfish_Level03_Body
+  rotate: false
+  xy: 2, 240
+  size: 149, 270
+  orig: 149, 270
+  offset: 0, 0
+  index: -1
+Dragonfish_Level03_Eyeball_Left
+  rotate: false
+  xy: 358, 16
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Dragonfish_Level03_Fin_Left
+  rotate: true
+  xy: 455, 402
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+Dragonfish_Level03_Fin_Right
+  rotate: true
+  xy: 455, 343
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+Dragonfish_Level03_Tail
+  rotate: false
+  xy: 450, 2
+  size: 53, 120
+  orig: 53, 120
+  offset: 0, 0
+  index: -1
+Dragonfish_Level04_Body
+  rotate: false
+  xy: 153, 240
+  size: 149, 270
+  orig: 149, 270
+  offset: 0, 0
+  index: -1
+Dragonfish_Level04_Fin_Right
+  rotate: true
+  xy: 138, 12
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+Dragonfish_Level05_Body
+  rotate: false
+  xy: 304, 240
+  size: 149, 270
+  orig: 149, 270
+  offset: 0, 0
+  index: -1
+Dragonfish_Level05_Eyeball_Left
+  rotate: false
+  xy: 455, 287
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Dragonfish_Level05_Fin_Back_Right
+  rotate: true
+  xy: 486, 254
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Eyelid_Left
+  rotate: true
+  xy: 455, 240
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Eyelid_Left
+  rotate: true
+  xy: 455, 240
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Eyelid_Left
+  rotate: true
+  xy: 455, 240
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Eyelid_Left
+  rotate: true
+  xy: 455, 240
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Eyelid_Left
+  rotate: true
+  xy: 455, 240
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Eyelid_Right
+  rotate: true
+  xy: 419, 30
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Eyelid_Right
+  rotate: true
+  xy: 419, 30
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Eyelid_Right
+  rotate: true
+  xy: 419, 30
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Eyelid_Right
+  rotate: true
+  xy: 419, 30
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Eyelid_Right
+  rotate: true
+  xy: 419, 30
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Fin_Back_Right
+  rotate: false
+  xy: 314, 13
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Fin02_Back_Left
+  rotate: false
+  xy: 220, 13
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Fin02_Back_Right
+  rotate: false
+  xy: 267, 13
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Fin_Left
+  rotate: false
+  xy: 2, 77
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Fin_Right
+  rotate: false
+  xy: 152, 77
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Fin_Left
+  rotate: false
+  xy: 302, 77
+  size: 146, 161
+  orig: 146, 161
+  offset: 0, 0
+  index: -1
+
+Dragonfish_slicing4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dragonfish_Level01_Fin_Left
+  rotate: true
+  xy: 321, 10
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level01_Fin_Right
+  rotate: true
+  xy: 360, 75
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Dragonfish_Level01_Tail
+  rotate: true
+  xy: 158, 16
+  size: 32, 111
+  orig: 32, 111
+  offset: 0, 0
+  index: -1
+Dragonfish_Level02_Iris_Left
+  rotate: false
+  xy: 349, 293
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Dragonfish_Level02_Iris_Right
+  rotate: false
+  xy: 349, 234
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+Dragonfish_Level03_Eyeball_Right
+  rotate: false
+  xy: 259, 55
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Dragonfish_Level03_Iris_Left
+  rotate: false
+  xy: 271, 2
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+Dragonfish_Level03_Iris_Right
+  rotate: true
+  xy: 459, 283
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+Dragonfish_Level04_Eyeball_Left
+  rotate: false
+  xy: 349, 179
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Dragonfish_Level04_Eyeball_Right
+  rotate: false
+  xy: 404, 278
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Dragonfish_Level04_Iris_Left
+  rotate: false
+  xy: 460, 179
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Dragonfish_Level04_Iris_Right
+  rotate: false
+  xy: 362, 32
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Dragonfish_Level05_Eyeball_Right
+  rotate: false
+  xy: 338, 123
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Dragonfish_Level05_Fin_Right
+  rotate: false
+  xy: 259, 116
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+Dragonfish_Level05_Iris_Right
+  rotate: true
+  xy: 450, 138
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Fin_Back_Right
+  rotate: false
+  xy: 401, 94
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Fin_Left
+  rotate: false
+  xy: 407, 373
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+Dragonfish_Level06_Fin_Right
+  rotate: false
+  xy: 259, 210
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Fin_Back_Left
+  rotate: true
+  xy: 407, 333
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Fin_Back_Right
+  rotate: false
+  xy: 320, 58
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Dragonfish_Level07_Fin_Right
+  rotate: false
+  xy: 158, 189
+  size: 99, 137
+  orig: 99, 137
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Fin_Left
+  rotate: false
+  xy: 306, 352
+  size: 99, 137
+  orig: 99, 137
+  offset: 0, 0
+  index: -1
+Dragonfish_Level08_Fin_Right
+  rotate: false
+  xy: 158, 50
+  size: 99, 137
+  orig: 99, 137
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Fin01_Back_Left
+  rotate: true
+  xy: 404, 222
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Fin01_Back_Right
+  rotate: false
+  xy: 404, 179
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+Dragonfish_Level09_Tail
+  rotate: false
+  xy: 2, 250
+  size: 154, 239
+  orig: 154, 239
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Fin01_Back_Left
+  rotate: false
+  xy: 394, 136
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Fin01_Back_Right
+  rotate: true
+  xy: 447, 222
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Fin_Right
+  rotate: false
+  xy: 158, 328
+  size: 146, 161
+  orig: 146, 161
+  offset: 0, 0
+  index: -1
+Dragonfish_Level10_Tail
+  rotate: false
+  xy: 2, 9
+  size: 154, 239
+  orig: 154, 239
+  offset: 0, 0
+  index: -1

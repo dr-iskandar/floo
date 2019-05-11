@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:8702e2ef00b1aff81985a9ff6216478c:6054870a2bcdbe0506bfd44563730eca:de4c17f91398ff2747818c27888be202$
+#
+:format=40000
+:texture=Art_Loading.png
+:size=2048x4096
+:pivotpoints=enabled
+
+art loading;1;1814;1441;2281;0.5;0.5; 4;1441;0;0;0;0;2281;1441;2281; 2;1;2;3;0;1;3

@@ -1,0 +1,20 @@
+frame_language_mask (no need)
+
+(no need to texPack, already compressed by unity)
+- Logo black 
+- Logo white
+- frame_result 
+- frame_predator
+(cannot using text packer.. need for shader)
+- bar_exp 
+
+(already Tex packer)
+frame_white
+frame_curvy
+frame_mask
+frame option
+frame_dropdown
+- (extremely big size)
+art loading
+BG loading
+BG1

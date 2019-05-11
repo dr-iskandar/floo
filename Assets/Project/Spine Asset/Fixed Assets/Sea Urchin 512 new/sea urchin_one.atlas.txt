@@ -1,0 +1,20 @@
+
+sea urchin_one.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sea_urchin
+  rotate: false
+  xy: 2, 102
+  size: 359, 369
+  orig: 359, 370
+  offset: 0, 0
+  index: -1
+shadow_2
+  rotate: false
+  xy: 2, 2
+  size: 98, 98
+  orig: 102, 102
+  offset: 2, 2
+  index: -1

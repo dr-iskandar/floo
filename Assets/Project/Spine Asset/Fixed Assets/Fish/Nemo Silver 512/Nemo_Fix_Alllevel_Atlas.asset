@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Nemo_Fix_Alllevel_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 90581e62828820349953e01c108d131b, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 9db25edcc45ecd24cbf8bdd33c6c23f1, type: 2}
+  - {fileID: 2100000, guid: 6e56d779dff83684099df6539d1cbd38, type: 2}
+  - {fileID: 2100000, guid: ab026b7e04fbf134e9b934762e2ebd7f, type: 2}
+  - {fileID: 2100000, guid: b2e4d38b3b188ed40b29b6be7b500d2e, type: 2}

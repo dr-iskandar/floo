@@ -1,0 +1,53 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Project/Texture Packer/BG/Art L/Art_Loading.tpsheet
+- Assets/Project/Texture Packer/BG/BG L/BG_Loading.tpsheet
+- Assets/Project/Texture Packer/BG/BG Menu/BG_Menu.tpsheet
+- Assets/Project/Texture Packer/Daily Login/Spritesheet_Daily_Login_1/Spritesheet_Daily_Login_1.tpsheet
+- Assets/Project/Texture Packer/Daily Login/Spritesheet_Daily_Login_2/Spritesheet_Daily_Login_2.tpsheet
+- Assets/Project/Texture Packer/Event_Christmas/Christmas.tpsheet
+- Assets/Project/Texture Packer/fish UI/Fish UI.tpsheet
+- Assets/Project/Texture Packer/Frame/frame curvy/Frame_curvy.tpsheet
+- Assets/Project/Texture Packer/Frame/frame dropdown/Frame_dropdown.tpsheet
+- Assets/Project/Texture Packer/Frame/frame mask/Frame_mask.tpsheet
+- Assets/Project/Texture Packer/Frame/frame option/Frame_option.tpsheet
+- Assets/Project/Texture Packer/Frame/frame white/Frame_white.tpsheet
+- Assets/Project/Texture Packer/Global/Global.tpsheet
+- Assets/Project/Texture Packer/Ingame/Ingame.tpsheet
+- Assets/Project/Texture Packer/Loading/Loading.tpsheet
+- Assets/Project/Texture Packer/mainmenu/MainMenu.tpsheet
+textureFileNames:
+- Assets\Project\Texture Packer\BG\Art L/Art_Loading.png
+- Assets\Project\Texture Packer\BG\BG L/BG_Loading.png
+- Assets\Project\Texture Packer\BG\BG Menu/BG_Menu.png
+- Assets\Project\Texture Packer\Daily Login\Spritesheet_Daily_Login_1/Spritesheet_Daily_Login_1.png
+- Assets\Project\Texture Packer\Daily Login\Spritesheet_Daily_Login_2/Spritesheet_Daily_Login_2.png
+- Assets\Project\Texture Packer\Event_Christmas/Christmas.png
+- Assets\Project\Texture Packer\fish UI/Fish UI.png
+- Assets\Project\Texture Packer\Frame\frame curvy/Frame_curvy.png
+- Assets\Project\Texture Packer\Frame\frame dropdown/Frame_dropdown.png
+- Assets\Project\Texture Packer\Frame\frame mask/Frame_mask.png
+- Assets\Project\Texture Packer\Frame\frame option/Frame_option.png
+- Assets\Project\Texture Packer\Frame\frame white/Frame_white.png
+- Assets\Project\Texture Packer\Global/Global.png
+- Assets\Project\Texture Packer\Ingame/Ingame.png
+- Assets\Project\Texture Packer\Loading/Loading.png
+- Assets\Project\Texture Packer\mainmenu/MainMenu.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 

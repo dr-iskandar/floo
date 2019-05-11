@@ -1,0 +1,969 @@
+
+Rudolfish Revised_buatpos.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rudolfish_Level01_Eyeball_Left
+  rotate: true
+  xy: 415, 2
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+Rudolfish_Level01_Nose
+  rotate: false
+  xy: 466, 87
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Rudolfish_Level02_Nose
+  rotate: false
+  xy: 466, 87
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Rudolfish_Level02_Body
+  rotate: false
+  xy: 2, 229
+  size: 160, 281
+  orig: 160, 281
+  offset: 0, 0
+  index: -1
+Rudolfish_Level02_Tail
+  rotate: false
+  xy: 466, 128
+  size: 44, 99
+  orig: 44, 99
+  offset: 0, 0
+  index: -1
+Rudolfish_Level03_Body
+  rotate: false
+  xy: 164, 229
+  size: 160, 281
+  orig: 160, 281
+  offset: 0, 0
+  index: -1
+Rudolfish_Level04_Fin02_Left
+  rotate: false
+  xy: 2, 2
+  size: 103, 63
+  orig: 103, 63
+  offset: 0, 0
+  index: -1
+Rudolfish_Level04_Fin02_Right
+  rotate: false
+  xy: 107, 2
+  size: 103, 63
+  orig: 103, 63
+  offset: 0, 0
+  index: -1
+Rudolfish_Level05_Body
+  rotate: true
+  xy: 2, 67
+  size: 160, 281
+  orig: 160, 281
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Body
+  rotate: false
+  xy: 326, 229
+  size: 160, 281
+  orig: 160, 281
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Tail
+  rotate: true
+  xy: 285, 2
+  size: 82, 128
+  orig: 82, 128
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Fin02_Left
+  rotate: true
+  xy: 212, 2
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Fin02_Left
+  rotate: true
+  xy: 212, 2
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Tail
+  rotate: true
+  xy: 285, 86
+  size: 141, 179
+  orig: 141, 179
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Tail
+  rotate: true
+  xy: 285, 86
+  size: 141, 179
+  orig: 141, 179
+  offset: 0, 0
+  index: -1
+
+Rudolfish Revised_buatpos2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rudolfish_Level01_Fin02_Left
+  rotate: false
+  xy: 438, 63
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+Rudolfish_Level01_Iris_Left
+  rotate: false
+  xy: 2, 2
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Rudolfish_Level01_Iris_Right
+  rotate: false
+  xy: 64, 2
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Rudolfish_Level04_Body
+  rotate: false
+  xy: 164, 229
+  size: 159, 281
+  orig: 159, 281
+  offset: 0, 0
+  index: -1
+Rudolfish_Level04_Eyeball_Left
+  rotate: false
+  xy: 126, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level05_Eyeball_Left
+  rotate: false
+  xy: 126, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Eyeball_Left
+  rotate: false
+  xy: 126, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Eyeball_Left
+  rotate: false
+  xy: 126, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Eyeball_Left
+  rotate: false
+  xy: 126, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Eyeball_Left
+  rotate: false
+  xy: 126, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Eyeball_Left
+  rotate: false
+  xy: 126, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level04_Eyeball_Right
+  rotate: false
+  xy: 188, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level05_Eyeball_Right
+  rotate: false
+  xy: 188, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Eyeball_Right
+  rotate: false
+  xy: 188, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Eyeball_Right
+  rotate: false
+  xy: 188, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Eyeball_Right
+  rotate: false
+  xy: 188, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Eyeball_Right
+  rotate: false
+  xy: 188, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Eyeball_Right
+  rotate: false
+  xy: 188, 4
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Backribbon
+  rotate: true
+  xy: 250, 3
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Backribbon
+  rotate: true
+  xy: 250, 3
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Body
+  rotate: false
+  xy: 2, 229
+  size: 160, 281
+  orig: 160, 281
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Fin02_Left
+  rotate: true
+  xy: 396, 98
+  size: 129, 113
+  orig: 129, 113
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Tail
+  rotate: false
+  xy: 2, 66
+  size: 118, 161
+  orig: 118, 161
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Body
+  rotate: false
+  xy: 325, 229
+  size: 159, 281
+  orig: 159, 281
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Tail
+  rotate: false
+  xy: 122, 66
+  size: 118, 161
+  orig: 118, 161
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Backribbon
+  rotate: true
+  xy: 284, 3
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Backribbon
+  rotate: true
+  xy: 284, 3
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Bell_Left
+  rotate: false
+  xy: 438, 2
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Bell_Left
+  rotate: false
+  xy: 438, 2
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Fin01_Left
+  rotate: true
+  xy: 242, 71
+  size: 156, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Fin01_Left
+  rotate: true
+  xy: 242, 71
+  size: 156, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Fin02_Back_Left
+  rotate: false
+  xy: 318, 4
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Fin02_Back_Left
+  rotate: false
+  xy: 318, 4
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Fin02_Back_Right
+  rotate: false
+  xy: 378, 4
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Fin02_Back_Right
+  rotate: false
+  xy: 378, 4
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+
+Rudolfish Revised_buatpos3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rudolfish_Level01_Body
+  rotate: false
+  xy: 163, 229
+  size: 157, 281
+  orig: 157, 281
+  offset: 0, 0
+  index: -1
+Rudolfish_Level01_Fin02_Right
+  rotate: true
+  xy: 121, 4
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+Rudolfish_Level01_Tail
+  rotate: false
+  xy: 423, 92
+  size: 37, 106
+  orig: 37, 106
+  offset: 0, 0
+  index: -1
+Rudolfish_Level02_Fin02_Left
+  rotate: true
+  xy: 462, 136
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+Rudolfish_Level03_Fin02_Left
+  rotate: true
+  xy: 400, 2
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+Rudolfish_Level03_Fin02_Right
+  rotate: true
+  xy: 454, 2
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+Rudolfish_Level03_Tail
+  rotate: true
+  xy: 2, 4
+  size: 69, 117
+  orig: 69, 117
+  offset: 0, 0
+  index: -1
+Rudolfish_Level04_Tail
+  rotate: true
+  xy: 160, 32
+  size: 80, 118
+  orig: 80, 118
+  offset: 0, 0
+  index: -1
+Rudolfish_Level05_Tail
+  rotate: true
+  xy: 280, 16
+  size: 80, 118
+  orig: 80, 118
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Fin02_Back_Left
+  rotate: false
+  xy: 462, 93
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Ribbon
+  rotate: true
+  xy: 454, 212
+  size: 117, 52
+  orig: 117, 52
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Fin02_Right
+  rotate: false
+  xy: 322, 397
+  size: 129, 113
+  orig: 129, 113
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Ribbon
+  rotate: true
+  xy: 453, 331
+  size: 118, 55
+  orig: 118, 55
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Fin02_Left
+  rotate: false
+  xy: 160, 114
+  size: 129, 113
+  orig: 129, 113
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Fin02_Right
+  rotate: false
+  xy: 322, 282
+  size: 129, 113
+  orig: 129, 113
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Bell_Right
+  rotate: false
+  xy: 453, 451
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Bell_Right
+  rotate: false
+  xy: 453, 451
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Body
+  rotate: false
+  xy: 2, 229
+  size: 159, 281
+  orig: 159, 281
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Body
+  rotate: false
+  xy: 2, 229
+  size: 159, 281
+  orig: 159, 281
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Fin01_Right
+  rotate: false
+  xy: 2, 75
+  size: 156, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Fin01_Right
+  rotate: false
+  xy: 2, 75
+  size: 156, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Light02_Back_On
+  rotate: false
+  xy: 322, 200
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Light03_Back_Off
+  rotate: false
+  xy: 291, 98
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+
+Rudolfish Revised_buatpos4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rudolfish_Level01_Eyeball_Right
+  rotate: true
+  xy: 325, 320
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+Rudolfish_Level02_Eyeball_Left
+  rotate: true
+  xy: 85, 2
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+Rudolfish_Level02_Eyeball_Right
+  rotate: true
+  xy: 218, 245
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+Rudolfish_Level02_Fin02_Right
+  rotate: true
+  xy: 367, 244
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+Rudolfish_Level02_Iris_Left
+  rotate: false
+  xy: 271, 187
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Rudolfish_Level02_Iris_Right
+  rotate: false
+  xy: 385, 186
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Rudolfish_Level03_Eyeball_Left
+  rotate: false
+  xy: 201, 175
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Rudolfish_Level03_Eyeball_Right
+  rotate: false
+  xy: 297, 250
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Rudolfish_Level03_Iris_Left
+  rotate: false
+  xy: 329, 136
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Rudolfish_Level03_Iris_Right
+  rotate: false
+  xy: 329, 136
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Rudolfish_Level03_Nose
+  rotate: false
+  xy: 470, 154
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Rudolfish_Level04_Iris_Left
+  rotate: false
+  xy: 380, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Iris_Left
+  rotate: false
+  xy: 380, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Iris_Left
+  rotate: false
+  xy: 380, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Iris_Left
+  rotate: false
+  xy: 380, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Iris_Left
+  rotate: false
+  xy: 380, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Iris_Left
+  rotate: false
+  xy: 380, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level04_Iris_Right
+  rotate: false
+  xy: 425, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level05_Iris_Left
+  rotate: false
+  xy: 425, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level05_Iris_Right
+  rotate: false
+  xy: 425, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Iris_Right
+  rotate: false
+  xy: 425, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Iris_Right
+  rotate: false
+  xy: 425, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Iris_Right
+  rotate: false
+  xy: 425, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Iris_Right
+  rotate: false
+  xy: 425, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Iris_Right
+  rotate: false
+  xy: 425, 141
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Rudolfish_Level04_Nose_Off
+  rotate: false
+  xy: 474, 247
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Rudolfish_Level05_Nose_Off
+  rotate: false
+  xy: 474, 247
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Nose_Off
+  rotate: false
+  xy: 474, 247
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Nose_Off
+  rotate: false
+  xy: 474, 247
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Nose_Off
+  rotate: false
+  xy: 474, 247
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Nose_Off
+  rotate: false
+  xy: 474, 247
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Nose_Off
+  rotate: false
+  xy: 474, 247
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Rudolfish_Level04_Nose_On
+  rotate: false
+  xy: 474, 279
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Rudolfish_Level05_Nose_On
+  rotate: false
+  xy: 474, 279
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Nose_On
+  rotate: false
+  xy: 474, 279
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Nose_On
+  rotate: false
+  xy: 474, 279
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Nose_On
+  rotate: false
+  xy: 474, 279
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Nose_On
+  rotate: false
+  xy: 474, 279
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Nose_On
+  rotate: false
+  xy: 474, 279
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Rudolfish_Level05_Fin02_Left
+  rotate: true
+  xy: 2, 12
+  size: 105, 81
+  orig: 105, 81
+  offset: 0, 0
+  index: -1
+Rudolfish_Level05_Fin02_Right
+  rotate: false
+  xy: 218, 321
+  size: 105, 81
+  orig: 105, 81
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Fin02_Back_Right
+  rotate: true
+  xy: 191, 119
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Fin02_Left
+  rotate: false
+  xy: 104, 393
+  size: 112, 108
+  orig: 112, 108
+  offset: 0, 0
+  index: -1
+Rudolfish_Level06_Fin02_Right
+  rotate: false
+  xy: 104, 283
+  size: 112, 108
+  orig: 112, 108
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Bell
+  rotate: true
+  xy: 441, 189
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Fin02_Back_Left
+  rotate: false
+  xy: 329, 93
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Rudolfish_Level07_Fin02_Back_Right
+  rotate: false
+  xy: 380, 98
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Bell
+  rotate: true
+  xy: 164, 19
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Fin02_Back_Left
+  rotate: true
+  xy: 327, 187
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Fin02_Back_Right
+  rotate: true
+  xy: 271, 130
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Rudolfish_Level08_Ribbon
+  rotate: true
+  xy: 2, 119
+  size: 118, 100
+  orig: 118, 100
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Fin02_Right
+  rotate: false
+  xy: 409, 247
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Fin02_Right
+  rotate: false
+  xy: 409, 247
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+Rudolfish_Level09_Ribbon
+  rotate: false
+  xy: 218, 404
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Ribbon
+  rotate: false
+  xy: 218, 404
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Light01_Back_On
+  rotate: true
+  xy: 104, 165
+  size: 116, 95
+  orig: 116, 95
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Light01_Left_On
+  rotate: false
+  xy: 412, 317
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Light01_Right_On
+  rotate: false
+  xy: 104, 78
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Light02_Left_On
+  rotate: false
+  xy: 338, 404
+  size: 78, 97
+  orig: 78, 97
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Light02_Right_On
+  rotate: false
+  xy: 418, 404
+  size: 78, 97
+  orig: 78, 97
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Light03_Left_Off
+  rotate: false
+  xy: 2, 371
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1
+Rudolfish_Level10_Light03_Right_Off
+  rotate: false
+  xy: 2, 239
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1

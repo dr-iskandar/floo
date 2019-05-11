@@ -1,0 +1,400 @@
+{
+	"data":[
+		{
+			"message_code":"GBL0001",
+			"message_value":"Koneksi dengan server terputus. Silakan periksa koneksi internet anda dan coba lagi.",
+			"message_size":65
+		},
+		{
+			"message_code":"GBL0002",
+			"message_value":"Server sedang dalam perbaikan. Silakan coba lagi nanti.",
+			"message_size":65
+		},		
+		{
+			"message_code":"GBL0003",
+			"message_value":"Koneksi error. Silakan coba lagi.",
+			"message_size":65
+		},
+
+		{
+			"message_code":"LOA0001",
+			"message_value":"Bergabung ke permainan",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0002",
+			"message_value":"Menyambungkan ke Server",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0003",
+			"message_value":"Memeriksa versi App",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0004",
+			"message_value":"Sebuah versi baru diperlukan, perbarui permainan dari Google Play Store.",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0005",
+			"message_value":"Sebuah versi baru diperlukan, perbarui permainan dari App Store.",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0006",
+			"message_value":"Mengambil Parameter Awal",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0007",
+			"message_value":"Mendaftarkan Pengguna Baru",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0008",
+			"message_value":"Masuk Ke Server",
+			"message_size":65
+		},
+		{
+			"message_code":"LOA0009",
+			"message_value":"Membuat Peta",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0010",
+			"message_value":"Membuat Fitur Peta",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0011",
+			"message_value":"Membuat Larik Air",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0012",
+			"message_value":"Memuat Aset Game",
+			"message_size":80
+		},
+		{
+			"message_code":"LOA0013",
+			"message_value":"Mohon Tunggu...",
+			"message_size":65
+		},
+			
+		{
+			"message_code":"POP0001",
+			"message_value":"Apakah anda mau keluar?",
+			"message_size":70
+		},
+		{
+			"message_code":"POP0002",
+			"message_value":"Apakah anda yakin ingin keluar dari Floo?",
+			"message_size":70
+		},
+		{
+			"message_code":"POP0003",
+			"message_value":"Silahkan isi nama panggilan terlebih dahulu",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0004",
+			"message_value":"Beli",
+			"message_size":62
+		},
+		{
+			"message_code":"POP0005",
+			"message_value":"Gold Shells tidak mencukupi. Beli Gold Shells di Shop?",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0006",
+			"message_value":"Anda sudah mempunyai item booster.",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0007",
+			"message_value":"Transaksi berhasil.",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0008",
+			"message_value":"Pilih warna untuk ikan anda",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0009",
+			"message_value":"Apakah anda menikmati game ini? Tolong luangkan waktu untuk menilai game kami dan beritahu kami cara untuk membuatnya lebih baik!",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0010",
+			"message_value":"Terima kasih atas bantuan anda!",
+			"message_size":65
+		},
+		{
+			"message_code":"POP0011",
+			"message_value":"Ubah menjadi bahasa ",
+			"message_size":65
+		},
+
+		{
+			"message_code":"TXT0001",
+			"message_value":"Versi",
+			"message_size":48
+		},
+		{
+			"message_code":"TXT0002",
+			"message_value":"nama panggilan",
+			"message_size":58
+		},
+		{
+			"message_code":"TXT0003",
+			"message_value":"Silahkan isi nama panggilan",
+			"message_size":48
+		},
+		{
+			"message_code":"TXT0004",
+			"message_value":"Nama panggilan ini tidak tersedia!",
+			"message_size":48
+		},
+		{
+			"message_code":"TXT0005",
+			"message_value":"Maaf, julukan ini sudah dipakai.",
+			"message_size":48
+		},
+		{
+			"message_code":"TXT0006",
+			"message_value":"SFX",
+			"message_size":60
+		},
+		{
+			"message_code":"TXT0007",
+			"message_value":"BGM",
+			"message_size":60
+		},
+		{
+			"message_code":"TXT0008",
+			"message_value":"Lang",
+			"message_size":60
+		},
+		{
+			"message_code":"TXT0009",
+			"message_value":"IN USE",
+			"message_size":40
+		},
+		{
+			"message_code":"TXT0010",
+			"message_value":"MAX",
+			"message_size":45
+		},
+		{
+			"message_code":"TXT0011",
+			"message_value":"HADIAH",
+			"message_size":40
+		},
+		{
+			"message_code":"TXT0012",
+			"message_value":"Selesai",
+			"message_size":45
+		},
+		{
+			"message_code":"TXT0013",
+			"message_value":"pts",
+			"message_size":50
+		},	
+		{
+			"message_code":"TXT0014",
+			"message_value":"Ctrl",
+			"message_size":60
+		},			
+		{
+			"message_code":"TXT0015",
+			"message_value":"Memuat...",
+			"message_size":60
+		},		
+		{
+			"message_code":"TXT0016",
+			"message_value":"Jangan tampilkan lagi",
+			"message_size":50
+		},	
+		{
+			"message_code":"TXT0017",
+			"message_value":"Hadiah masuk hari ini",
+			"message_size":50
+		},	
+
+		{
+			"message_code":"TOG0001",
+			"message_value":"Gold",
+			"message_size":68
+		},
+		{
+			"message_code":"TOG0002",
+			"message_value":"Skin",
+			"message_size":68
+		},
+		{
+			"message_code":"TOG0003",
+			"message_value":"Points",
+			"message_size":68
+		},
+		{
+			"message_code":"TOG0004",
+			"message_value":"Time",
+			"message_size":68
+		},
+		{
+			"message_code":"TOG0005",
+			"message_value":"Eating",
+			"message_size":68
+		},
+		{
+			"message_code":"TOG0006",
+			"message_value":"ON",
+			"message_size":45
+		},
+		{
+			"message_code":"TOG0007",
+			"message_value":"OFF",
+			"message_size":45
+		},
+		{
+			"message_code":"TOG0008",
+			"message_value":"JOYSTICK",
+			"message_size":45
+		},
+		{
+			"message_code":"TOG0009",
+			"message_value":"TOUCH",
+			"message_size":45
+		},
+
+		{
+			"message_code":"BTN0001",
+			"message_value":"mulai",
+			"message_size":160
+		},
+		{
+			"message_code":"BTN0002",
+			"message_value":"OK",
+			"message_size":75
+		},
+		{
+			"message_code":"BTN0003",
+			"message_value":"SELESAI",
+			"message_size":48
+		},
+		{
+			"message_code":"BTN0004",
+			"message_value":"BATAL",
+			"message_size":60
+		},
+		{
+			"message_code":"BTN0005",
+			"message_value":"KELUAR",
+			"message_size":60
+		},
+		{
+			"message_code":"BTN0006",
+			"message_value":"MAIN LAGI",
+			"message_size":54
+		},
+		{
+			"message_code":"BTN0007",
+			"message_value":"KELUAR",
+			"message_size":65
+		},
+		{
+			"message_code":"BTN0008",
+			"message_value":"PAKAI",
+			"message_size":50
+		},
+		{
+			"message_code":"BTN0009",
+			"message_value":"BELI",
+			"message_size":50
+		},
+		{
+			"message_code":"BTN0010",
+			"message_value":"WARNA",
+			"message_size":50
+		},
+		{
+			"message_code":"BTN0011",
+			"message_value":"AMBIL",
+			"message_size":46
+		},
+		{
+			"message_code":"BTN0012",
+			"message_value":"PASANG BOOSTER",
+			"message_size":26
+		},
+		{
+			"message_code":"BTN0013",
+			"message_value":"Sambung KinerjaPay",
+			"message_size":58
+		},
+		{
+			"message_code":"BTN0014",
+			"message_value":"Tersambung",
+			"message_size":58
+		},
+		{
+			"message_code":"BTN0015",
+			"message_value":"Credit",
+			"message_size":58
+		},
+		{
+			"message_code":"BTN0016",
+			"message_value":"Share Hasil",
+			"message_size":55
+		},
+		{
+			"message_code":"BTN0017",
+			"message_value":"OK",
+			"message_size":65
+		},
+		{
+			"message_code":"BTN0018",
+			"message_value":"NANTI",
+			"message_size":65
+		},
+		{
+			"message_code":"BTN0019",
+			"message_value":"Pemberitahuan",
+			"message_size":58
+		},
+
+		{
+			"message_code":"LAN0001",
+			"message_value":"English",
+			"message_size":58
+		},
+		{
+			"message_code":"LAN0002",
+			"message_value":"Indonesia",
+			"message_size":58
+		},
+		{
+			"message_code":"LAN0003",
+			"message_value":"Chinese (Trad)",
+			"message_size":58
+		},
+		{
+			"message_code":"LAN0004",
+			"message_value":"Chinese (Simp)",
+			"message_size":58
+		},
+		{
+			"message_code":"LAN0005",
+			"message_value":"Thai",
+			"message_size":58
+		},
+		{
+			"message_code":"LAN0006",
+			"message_value":"Vietnamese",
+			"message_size":58
+		}
+	]
+}

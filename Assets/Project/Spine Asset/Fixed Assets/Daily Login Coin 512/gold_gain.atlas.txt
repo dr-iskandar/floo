@@ -1,0 +1,48 @@
+
+gold_gain.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buff_gold
+  rotate: false
+  xy: 2, 211
+  size: 234, 213
+  orig: 234, 213
+  offset: 0, 0
+  index: -1
+star big 1
+  rotate: false
+  xy: 2, 2
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+star big 2
+  rotate: false
+  xy: 2, 2
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+star small 1
+  rotate: false
+  xy: 238, 286
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+star small 2
+  rotate: false
+  xy: 238, 286
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+star small 3
+  rotate: false
+  xy: 238, 286
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1

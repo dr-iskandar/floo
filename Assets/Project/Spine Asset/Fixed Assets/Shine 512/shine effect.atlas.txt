@@ -1,0 +1,76 @@
+
+shine effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold_star_big_1
+  rotate: false
+  xy: 2, 237
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+gold_star_big_2
+  rotate: false
+  xy: 2, 237
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+gold_star_small_1
+  rotate: false
+  xy: 237, 315
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+gold_star_small_2
+  rotate: false
+  xy: 237, 315
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+gold_star_small_3
+  rotate: false
+  xy: 237, 315
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+silver_star_big_1
+  rotate: false
+  xy: 2, 2
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+silver_star_big_2
+  rotate: false
+  xy: 2, 2
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+silver_star_small_1
+  rotate: false
+  xy: 237, 158
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+silver_star_small_2
+  rotate: false
+  xy: 237, 158
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+silver_star_small_3
+  rotate: false
+  xy: 237, 158
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1

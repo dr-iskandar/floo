@@ -1,0 +1,48 @@
+
+Anemone.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anemone_Purple_01
+  rotate: false
+  xy: 251, 120
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+Anemone_Purple_02
+  rotate: false
+  xy: 304, 207
+  size: 138, 125
+  orig: 138, 125
+  offset: 0, 0
+  index: -1
+Anemone_Purple_03
+  rotate: false
+  xy: 304, 334
+  size: 173, 167
+  orig: 173, 167
+  offset: 0, 0
+  index: -1
+Anemone_Purple_04
+  rotate: false
+  xy: 2, 2
+  size: 247, 220
+  orig: 247, 220
+  offset: 0, 0
+  index: -1
+Anemone_Purple_05
+  rotate: false
+  xy: 2, 224
+  size: 300, 277
+  orig: 300, 277
+  offset: 0, 0
+  index: -1
+shadow_2
+  rotate: false
+  xy: 251, 43
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1

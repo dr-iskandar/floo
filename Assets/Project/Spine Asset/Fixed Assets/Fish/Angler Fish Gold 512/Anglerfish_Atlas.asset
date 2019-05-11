@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Anglerfish_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: abc9e52ca90951641a2c6b6e9865b2db, type: 3}
+  materials:
+  - {fileID: 2100000, guid: b90e40d8edced3c48ac36fd52675d0a4, type: 2}
+  - {fileID: 2100000, guid: ec87c80db41520b4c858f5a34fee9723, type: 2}
+  - {fileID: 2100000, guid: ce031b43b7362e74ea27570fb306b66b, type: 2}
+  - {fileID: 2100000, guid: 950fe2239bd7ed54e8a6071c3d03712b, type: 2}

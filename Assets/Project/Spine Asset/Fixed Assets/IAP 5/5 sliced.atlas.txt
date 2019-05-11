@@ -1,0 +1,62 @@
+
+5 sliced.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tresure chest
+  rotate: false
+  xy: 2, 2
+  size: 278, 238
+  orig: 278, 238
+  offset: 0, 0
+  index: -1
+aura
+  rotate: false
+  xy: 2, 242
+  size: 280, 258
+  orig: 280, 258
+  offset: 0, 0
+  index: -1
+glow 1
+  rotate: false
+  xy: 385, 421
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+glow 2
+  rotate: false
+  xy: 284, 332
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+glow 3
+  rotate: false
+  xy: 342, 382
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+glow 4
+  rotate: false
+  xy: 385, 450
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+glow 5
+  rotate: false
+  xy: 284, 414
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+glow 6
+  rotate: false
+  xy: 284, 364
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1

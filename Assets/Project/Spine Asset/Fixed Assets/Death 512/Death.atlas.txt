@@ -1,0 +1,83 @@
+
+Death.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble big
+  rotate: false
+  xy: 2, 143
+  size: 328, 330
+  orig: 329, 331
+  offset: 0, 1
+  index: -1
+bubble big2
+  rotate: false
+  xy: 2, 143
+  size: 328, 330
+  orig: 329, 331
+  offset: 0, 1
+  index: -1
+bubble big3
+  rotate: false
+  xy: 2, 143
+  size: 328, 330
+  orig: 329, 331
+  offset: 0, 1
+  index: -1
+bubble medium
+  rotate: false
+  xy: 2, 2
+  size: 138, 139
+  orig: 140, 141
+  offset: 0, 1
+  index: -1
+bubble medium2
+  rotate: false
+  xy: 2, 2
+  size: 138, 139
+  orig: 140, 141
+  offset: 0, 1
+  index: -1
+bubble medium3
+  rotate: false
+  xy: 2, 2
+  size: 138, 139
+  orig: 140, 141
+  offset: 0, 1
+  index: -1
+bubble medium4
+  rotate: false
+  xy: 2, 2
+  size: 138, 139
+  orig: 140, 141
+  offset: 0, 1
+  index: -1
+bubble small1
+  rotate: false
+  xy: 332, 415
+  size: 57, 58
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+bubble small2
+  rotate: false
+  xy: 142, 84
+  size: 57, 57
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+bubble small3
+  rotate: false
+  xy: 332, 356
+  size: 57, 57
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+bubble small4
+  rotate: false
+  xy: 391, 416
+  size: 57, 57
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

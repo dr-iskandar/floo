@@ -1,0 +1,76 @@
+
+NOS.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nos 1
+  rotate: true
+  xy: 2, 2
+  size: 84, 151
+  orig: 84, 151
+  offset: 0, 0
+  index: -1
+nos 2
+  rotate: true
+  xy: 155, 21
+  size: 65, 162
+  orig: 65, 162
+  offset: 0, 0
+  index: -1
+nos 3
+  rotate: false
+  xy: 316, 184
+  size: 76, 156
+  orig: 76, 156
+  offset: 0, 0
+  index: -1
+nos 4
+  rotate: false
+  xy: 319, 23
+  size: 57, 96
+  orig: 57, 96
+  offset: 0, 0
+  index: -1
+nos 5
+  rotate: false
+  xy: 430, 395
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+nos 6
+  rotate: false
+  xy: 394, 240
+  size: 44, 100
+  orig: 44, 100
+  offset: 0, 0
+  index: -1
+nos 7
+  rotate: false
+  xy: 378, 23
+  size: 57, 96
+  orig: 57, 96
+  offset: 0, 0
+  index: -1
+nos 8
+  rotate: true
+  xy: 316, 121
+  size: 61, 95
+  orig: 61, 95
+  offset: 0, 0
+  index: -1
+nos 9
+  rotate: false
+  xy: 316, 342
+  size: 112, 145
+  orig: 112, 145
+  offset: 0, 0
+  index: -1
+nos glow
+  rotate: false
+  xy: 2, 88
+  size: 312, 399
+  orig: 312, 399
+  offset: 0, 0
+  index: -1

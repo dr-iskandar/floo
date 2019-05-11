@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:355bfd4af000b2a3d7f3a0ed6ef0c0fb:7f0435ca54bb91bfe8e70dcbedf4c9ae:fc4ed1df4a9a6897080d68bdf69940ec$
+#
+:format=40000
+:texture=Frame_curvy.png
+:size=1024x2048
+:pivotpoints=enabled
+
+frame_curvy;1;547;1004;1500;0.5;0.4896666666666667; 24;416;1476;495;1473;605;1479;847;1500;921;1500;983;1451;1004;1398;1004;241;871;102;819;68;739;36;644;12;530;0;376;0;235;20;106;62;12;129;0;189;6;221;29;271;29;1408;77;1481;135;1500;200;1500; 22;20;22;23;20;21;22;0;20;23;15;18;19;17;18;15;13;14;19;17;15;16;14;15;19;12;13;19;11;12;19;7;10;11;8;9;10;7;8;10;7;11;19;19;0;1;19;1;7;3;5;6;3;4;5;2;3;6;7;2;6;7;1;2;0;19;20

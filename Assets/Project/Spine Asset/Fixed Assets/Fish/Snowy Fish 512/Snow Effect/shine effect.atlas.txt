@@ -1,0 +1,41 @@
+
+shine effect.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+silver_star_big_1
+  rotate: false
+  xy: 2, 255
+  size: 260, 250
+  orig: 260, 250
+  offset: 0, 0
+  index: -1
+silver_star_big_2
+  rotate: false
+  xy: 2, 103
+  size: 146, 150
+  orig: 146, 150
+  offset: 0, 0
+  index: -1
+silver_star_small_1
+  rotate: false
+  xy: 264, 351
+  size: 140, 154
+  orig: 140, 154
+  offset: 0, 0
+  index: -1
+silver_star_small_2
+  rotate: false
+  xy: 150, 127
+  size: 123, 126
+  orig: 123, 126
+  offset: 0, 0
+  index: -1
+silver_star_small_3
+  rotate: false
+  xy: 2, 2
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1

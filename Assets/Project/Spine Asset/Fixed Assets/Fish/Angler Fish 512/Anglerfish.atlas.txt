@@ -1,0 +1,913 @@
+
+Anglerfish.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anglerfish_Level01_Body
+  rotate: false
+  xy: 282, 260
+  size: 148, 250
+  orig: 148, 250
+  offset: 0, 0
+  index: -1
+Anglerfish_Level02_Body
+  rotate: false
+  xy: 282, 8
+  size: 148, 250
+  orig: 148, 250
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Spike_Row01_Left
+  rotate: false
+  xy: 62, 5
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Spike_Row01_Right
+  rotate: false
+  xy: 84, 5
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Antenna
+  rotate: false
+  xy: 432, 62
+  size: 63, 136
+  orig: 63, 136
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Spike_Row01_Left
+  rotate: true
+  xy: 2, 4
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Spike_Row01_Right
+  rotate: true
+  xy: 32, 4
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Antenna
+  rotate: false
+  xy: 432, 356
+  size: 77, 154
+  orig: 77, 154
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Body
+  rotate: true
+  xy: 2, 29
+  size: 161, 258
+  orig: 161, 258
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Spike_Row01_Left
+  rotate: true
+  xy: 432, 2
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Antenna
+  rotate: false
+  xy: 432, 200
+  size: 77, 154
+  orig: 77, 154
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Body
+  rotate: false
+  xy: 2, 192
+  size: 278, 318
+  orig: 278, 318
+  offset: 0, 0
+  index: -1
+
+Anglerfish2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anglerfish_Level03_Body
+  rotate: false
+  xy: 2, 7
+  size: 141, 250
+  orig: 141, 250
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Body
+  rotate: false
+  xy: 2, 259
+  size: 141, 251
+  orig: 141, 251
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Fishball
+  rotate: false
+  xy: 384, 76
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Jaw
+  rotate: false
+  xy: 414, 139
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Antenna
+  rotate: false
+  xy: 447, 22
+  size: 63, 115
+  orig: 63, 115
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Body
+  rotate: true
+  xy: 145, 359
+  size: 151, 237
+  orig: 151, 237
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Jaw
+  rotate: false
+  xy: 145, 2
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Body
+  rotate: true
+  xy: 145, 217
+  size: 140, 237
+  orig: 140, 237
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Body
+  rotate: true
+  xy: 145, 75
+  size: 140, 237
+  orig: 140, 237
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Iris_Left
+  rotate: false
+  xy: 414, 43
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Iris_Right
+  rotate: false
+  xy: 414, 43
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Iris_Left
+  rotate: false
+  xy: 384, 181
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Iris_Right
+  rotate: false
+  xy: 384, 181
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Iris_Left
+  rotate: false
+  xy: 384, 181
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Iris_Right
+  rotate: false
+  xy: 384, 181
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Jaw
+  rotate: false
+  xy: 244, 2
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Fin01_Left
+  rotate: false
+  xy: 384, 361
+  size: 124, 149
+  orig: 124, 149
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Fin01_Right
+  rotate: false
+  xy: 384, 210
+  size: 124, 149
+  orig: 124, 149
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Jaw
+  rotate: false
+  xy: 329, 2
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+
+Anglerfish3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anglerfish_Level01_Fishball
+  rotate: false
+  xy: 446, 60
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Anglerfish_Level02_Antenna
+  rotate: false
+  xy: 375, 22
+  size: 69, 112
+  orig: 69, 112
+  offset: 0, 0
+  index: -1
+Anglerfish_Level02_Tail
+  rotate: true
+  xy: 446, 2
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Anglerfish_Level03_Antenna
+  rotate: false
+  xy: 2, 4
+  size: 73, 119
+  orig: 73, 119
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Antenna
+  rotate: false
+  xy: 77, 6
+  size: 55, 117
+  orig: 55, 117
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Antenna
+  rotate: false
+  xy: 134, 8
+  size: 63, 115
+  orig: 63, 115
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Fin01_Left
+  rotate: true
+  xy: 415, 446
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Fin01_Right
+  rotate: true
+  xy: 415, 380
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Jaw
+  rotate: true
+  xy: 250, 134
+  size: 140, 122
+  orig: 140, 122
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Antenna
+  rotate: false
+  xy: 199, 8
+  size: 63, 115
+  orig: 63, 115
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Jaw
+  rotate: true
+  xy: 291, 370
+  size: 140, 122
+  orig: 140, 122
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Spike_Row02_Left
+  rotate: true
+  xy: 446, 191
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Spike_Row02_Right
+  rotate: true
+  xy: 446, 122
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Body
+  rotate: false
+  xy: 2, 275
+  size: 153, 235
+  orig: 153, 235
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Tail
+  rotate: true
+  xy: 387, 260
+  size: 108, 122
+  orig: 108, 122
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Fin01_Left
+  rotate: false
+  xy: 2, 125
+  size: 122, 148
+  orig: 122, 148
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Fin01_Right
+  rotate: false
+  xy: 126, 125
+  size: 122, 148
+  orig: 122, 148
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Spike_Row02_Left
+  rotate: true
+  xy: 157, 276
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Spike_Row02_Right
+  rotate: true
+  xy: 272, 276
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Tail
+  rotate: true
+  xy: 264, 8
+  size: 124, 109
+  orig: 124, 109
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Spike_Row02_Left
+  rotate: false
+  xy: 374, 136
+  size: 70, 122
+  orig: 70, 122
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Tail
+  rotate: true
+  xy: 157, 370
+  size: 140, 132
+  orig: 140, 132
+  offset: 0, 0
+  index: -1
+
+Anglerfish4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Anglerfish_Level01_Antenna
+  rotate: true
+  xy: 307, 394
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+Anglerfish_Level01_Eyeball_Left
+  rotate: false
+  xy: 415, 433
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Anglerfish_Level02_Eyeball_Left
+  rotate: false
+  xy: 415, 433
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Anglerfish_Level03_Eyeball_Left
+  rotate: false
+  xy: 415, 433
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Anglerfish_Level01_Eyeball_Right
+  rotate: false
+  xy: 387, 354
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Anglerfish_Level02_Eyeball_Right
+  rotate: false
+  xy: 387, 354
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Anglerfish_Level03_Eyeball_Right
+  rotate: false
+  xy: 387, 354
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+Anglerfish_Level01_Fin01_Left
+  rotate: true
+  xy: 201, 175
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+Anglerfish_Level01_Fin01_Right
+  rotate: false
+  xy: 461, 132
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+Anglerfish_Level01_Iris_Left
+  rotate: false
+  xy: 404, 174
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Anglerfish_Level01_Iris_Right
+  rotate: false
+  xy: 404, 174
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Anglerfish_Level02_Iris_Left
+  rotate: false
+  xy: 404, 174
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Anglerfish_Level02_Iris_Right
+  rotate: false
+  xy: 404, 174
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Anglerfish_Level03_Iris_Left
+  rotate: false
+  xy: 404, 174
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Anglerfish_Level03_Iris_Right
+  rotate: false
+  xy: 404, 174
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+Anglerfish_Level01_Tail
+  rotate: false
+  xy: 466, 386
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Anglerfish_Level02_Fin01_Left
+  rotate: true
+  xy: 249, 192
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+Anglerfish_Level02_Fin01_Right
+  rotate: false
+  xy: 281, 117
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+Anglerfish_Level02_Fishball
+  rotate: false
+  xy: 414, 292
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Anglerfish_Level03_Fin01_Left
+  rotate: false
+  xy: 301, 268
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+Anglerfish_Level03_Fin01_Right
+  rotate: false
+  xy: 301, 210
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+Anglerfish_Level03_Fishball
+  rotate: false
+  xy: 406, 231
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Anglerfish_Level03_Tail
+  rotate: false
+  xy: 102, 3
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Eyeball_Left
+  rotate: false
+  xy: 130, 224
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Eyeball_Right
+  rotate: false
+  xy: 154, 104
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Fin01_Left
+  rotate: false
+  xy: 201, 226
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Fin01_Right
+  rotate: false
+  xy: 232, 307
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Iris_Left
+  rotate: false
+  xy: 281, 65
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Iris_Right
+  rotate: false
+  xy: 281, 65
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Anglerfish_Level04_Tail
+  rotate: true
+  xy: 194, 376
+  size: 42, 83
+  orig: 42, 83
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Eyeball_Left
+  rotate: false
+  xy: 225, 119
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Eyeball_Left
+  rotate: false
+  xy: 225, 119
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Eyeball_Right
+  rotate: false
+  xy: 225, 63
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Eyeball_Right
+  rotate: false
+  xy: 225, 63
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Fin01_Left
+  rotate: true
+  xy: 95, 350
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Fin01_Right
+  rotate: true
+  xy: 94, 295
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Fishball
+  rotate: false
+  xy: 221, 9
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Iris_Left
+  rotate: false
+  xy: 301, 169
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Iris_Right
+  rotate: false
+  xy: 301, 169
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Anglerfish_Level05_Tail
+  rotate: false
+  xy: 74, 175
+  size: 54, 107
+  orig: 54, 107
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Fishball
+  rotate: false
+  xy: 275, 9
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Iris_Left
+  rotate: false
+  xy: 329, 11
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Iris_Right
+  rotate: false
+  xy: 329, 11
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Spike_Row01_Left
+  rotate: false
+  xy: 378, 89
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Spike_Row01_Right
+  rotate: false
+  xy: 377, 51
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+Anglerfish_Level06_Tail
+  rotate: false
+  xy: 95, 405
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Eyeball_Left
+  rotate: false
+  xy: 342, 140
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Eyeball_Right
+  rotate: false
+  xy: 389, 127
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Fin01_Left
+  rotate: true
+  xy: 307, 434
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Fin01_Right
+  rotate: false
+  xy: 2, 52
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Fishball
+  rotate: false
+  xy: 461, 180
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Iris_Left
+  rotate: false
+  xy: 154, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Iris_Right
+  rotate: false
+  xy: 154, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Anglerfish_Level07_Tail
+  rotate: false
+  xy: 2, 397
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Eyeball_Left
+  rotate: false
+  xy: 334, 96
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Eyeball_Right
+  rotate: false
+  xy: 333, 52
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Fin01_Left
+  rotate: false
+  xy: 2, 284
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Fin01_Right
+  rotate: true
+  xy: 194, 420
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Fishball
+  rotate: false
+  xy: 130, 175
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Jaw
+  rotate: true
+  xy: 80, 76
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Spike_Row02_Left
+  rotate: false
+  xy: 154, 36
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+Anglerfish_Level08_Spike_Row02_Right
+  rotate: false
+  xy: 280, 326
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Eyeball_Left
+  rotate: false
+  xy: 347, 354
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Eyeball_Left
+  rotate: false
+  xy: 347, 354
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Eyeball_Right
+  rotate: false
+  xy: 370, 11
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Eyeball_Right
+  rotate: false
+  xy: 370, 11
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Fishball
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Anglerfish_Level09_Spike_Row01_Right
+  rotate: true
+  xy: 347, 294
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Fishball
+  rotate: false
+  xy: 52, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Spike_Row01_Left
+  rotate: false
+  xy: 249, 245
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Spike_Row01_Right
+  rotate: true
+  xy: 344, 242
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Spike_Row02_Right
+  rotate: false
+  xy: 2, 160
+  size: 70, 122
+  orig: 70, 122
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Spike_Row03_Left
+  rotate: false
+  xy: 172, 295
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+Anglerfish_Level10_Spike_Row03_Right
+  rotate: false
+  xy: 344, 187
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1

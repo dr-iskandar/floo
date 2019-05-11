@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:d35b30ef6be8a5eaa4c445593342a44e:6c5581980d155933949fa0070c08c7a1:8370ee80291732da0f80b655badff555$
+#
+:format=40000
+:texture=Frame_option.png
+:size=1024x1024
+:pivotpoints=enabled
+
+frame_option;1;332;915;691;0.5;0.5; 8;915;656;915;15;877;0;17;0;0;32;0;678;35;691;900;691; 6;0;6;7;4;5;6;2;4;6;2;3;4;0;1;2;0;2;6

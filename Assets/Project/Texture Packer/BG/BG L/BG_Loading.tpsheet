@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f768456595842ddfa2993359a8ebbc0f:12a2b1ebbad3d41e7a7231ad4d10a10b:90163cfae383459c5a69b2eacd7fafd2$
+#
+:format=40000
+:texture=BG_Loading.png
+:size=2048x4096
+:pivotpoints=enabled
+
+BG loading;1;1814;1441;2281;0.5;0.5; 4;1441;0;0;0;0;2281;1441;2281; 2;1;2;3;0;1;3

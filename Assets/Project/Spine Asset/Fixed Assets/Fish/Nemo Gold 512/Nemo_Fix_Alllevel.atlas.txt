@@ -1,0 +1,808 @@
+
+Nemo_Fix_Alllevel.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nemo_Level10_Body
+  rotate: false
+  xy: 2, 138
+  size: 174, 372
+  orig: 174, 372
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Body
+  rotate: false
+  xy: 2, 138
+  size: 174, 372
+  orig: 174, 372
+  offset: 0, 0
+  index: -1
+Nemo_Level10_Fin1_Left
+  rotate: false
+  xy: 359, 360
+  size: 130, 150
+  orig: 130, 150
+  offset: 0, 0
+  index: -1
+Nemo_Level10_Fin1_Right
+  rotate: false
+  xy: 359, 208
+  size: 130, 150
+  orig: 130, 150
+  offset: 0, 0
+  index: -1
+Nemo_Level10_Tail
+  rotate: false
+  xy: 2, 4
+  size: 158, 132
+  orig: 158, 133
+  offset: 0, 1
+  index: -1
+Nemo_Level1_Tail
+  rotate: false
+  xy: 491, 423
+  size: 18, 87
+  orig: 18, 87
+  offset: 0, 0
+  index: -1
+Nemo_Level2_Fin2_Left
+  rotate: true
+  xy: 409, 11
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+Nemo_Level2_Tail
+  rotate: false
+  xy: 266, 3
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+Nemo_Level3_Body
+  rotate: false
+  xy: 178, 209
+  size: 179, 301
+  orig: 179, 301
+  offset: 0, 0
+  index: -1
+Nemo_Level4_Tail
+  rotate: true
+  xy: 312, 7
+  size: 77, 95
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Fin2_Left_Back
+  rotate: true
+  xy: 458, 2
+  size: 40, 44
+  orig: 43, 47
+  offset: 3, 2
+  index: -1
+Nemo_Level8_Fin2_Left
+  rotate: false
+  xy: 462, 126
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Fin2_Right
+  rotate: false
+  xy: 462, 44
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Fin1_Left
+  rotate: true
+  xy: 178, 87
+  size: 120, 140
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Fin1_Right
+  rotate: true
+  xy: 320, 86
+  size: 120, 140
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Fin2_Left
+  rotate: false
+  xy: 162, 2
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Fin2_Right
+  rotate: false
+  xy: 214, 2
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+
+Nemo_Fix_Alllevel2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nemo_Level10_Fin2_Left
+  rotate: true
+  xy: 305, 18
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+Nemo_Level10_Fin2_Right
+  rotate: false
+  xy: 417, 114
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+Nemo_Level1_Body
+  rotate: false
+  xy: 2, 208
+  size: 177, 302
+  orig: 177, 302
+  offset: 0, 0
+  index: -1
+Nemo_Level1_Fin2_Left
+  rotate: false
+  xy: 448, 11
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+Nemo_Level1_Fin2_Right
+  rotate: true
+  xy: 471, 328
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+Nemo_Level1_Iris_Left
+  rotate: false
+  xy: 448, 50
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Nemo_Level2_Body
+  rotate: true
+  xy: 2, 30
+  size: 176, 301
+  orig: 176, 301
+  offset: 0, 0
+  index: -1
+Nemo_Level2_Fin2_Right
+  rotate: false
+  xy: 359, 210
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+Nemo_Level5_Body
+  rotate: false
+  xy: 181, 208
+  size: 176, 302
+  orig: 176, 302
+  offset: 0, 0
+  index: -1
+Nemo_Level5_Fin2_Left_Back
+  rotate: false
+  xy: 471, 286
+  size: 36, 40
+  orig: 41, 42
+  offset: 2, 2
+  index: -1
+Nemo_Level6_Fin2_Left
+  rotate: true
+  xy: 434, 212
+  size: 45, 73
+  orig: 50, 75
+  offset: 5, 0
+  index: -1
+Nemo_Level7_Fin1_Left_Back
+  rotate: true
+  xy: 477, 179
+  size: 31, 30
+  orig: 35, 33
+  offset: 4, 2
+  index: -1
+Nemo_Level7_Fin1_Right_Back
+  rotate: true
+  xy: 477, 146
+  size: 31, 30
+  orig: 35, 33
+  offset: 0, 2
+  index: -1
+Nemo_Level7_Fin2_Left
+  rotate: false
+  xy: 401, 2
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Fin1_Left
+  rotate: false
+  xy: 359, 259
+  size: 110, 128
+  orig: 110, 132
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Fin1_Left_Back
+  rotate: true
+  xy: 477, 114
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Fin1_Right
+  rotate: false
+  xy: 305, 78
+  size: 110, 128
+  orig: 110, 132
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Fin1_Right_Back
+  rotate: true
+  xy: 417, 82
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Fin1_Left_Back
+  rotate: false
+  xy: 2, 2
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Fin1_Right_Back
+  rotate: false
+  xy: 33, 2
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Tail
+  rotate: false
+  xy: 359, 389
+  size: 136, 121
+  orig: 136, 121
+  offset: 0, 0
+  index: -1
+
+Nemo_Fix_Alllevel3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nemo_Level10_Fin1_Left_Back
+  rotate: true
+  xy: 466, 298
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+Nemo_Level10_Fin1_Right_Back
+  rotate: true
+  xy: 466, 259
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+Nemo_Level10_Iris_Left
+  rotate: false
+  xy: 466, 424
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level4_Iris_left
+  rotate: false
+  xy: 466, 424
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level5_Iris_Left
+  rotate: false
+  xy: 466, 424
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Iris_Left
+  rotate: false
+  xy: 466, 424
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level7_Iris_Left
+  rotate: false
+  xy: 466, 424
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Iris_Left
+  rotate: false
+  xy: 466, 424
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Iris_Left
+  rotate: false
+  xy: 466, 424
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level10_Iris_Right
+  rotate: false
+  xy: 466, 379
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level4_Iris_Right
+  rotate: false
+  xy: 466, 379
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level5_Iris_Right
+  rotate: false
+  xy: 466, 379
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Iris_Right
+  rotate: false
+  xy: 466, 379
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level7_Iris_Right
+  rotate: false
+  xy: 466, 379
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Iris_Right
+  rotate: false
+  xy: 466, 379
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Iris_Right
+  rotate: false
+  xy: 466, 379
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Nemo_Level1_Eye_Left
+  rotate: false
+  xy: 413, 20
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+Nemo_Level3_Tail
+  rotate: true
+  xy: 306, 25
+  size: 56, 89
+  orig: 56, 89
+  offset: 0, 0
+  index: -1
+Nemo_Level4_Body
+  rotate: true
+  xy: 2, 31
+  size: 174, 302
+  orig: 174, 302
+  offset: 0, 0
+  index: -1
+Nemo_Level5_Fin2_Right_Back
+  rotate: false
+  xy: 466, 337
+  size: 36, 40
+  orig: 41, 42
+  offset: 3, 2
+  index: -1
+Nemo_Level5_Tail
+  rotate: false
+  xy: 413, 108
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Body
+  rotate: false
+  xy: 2, 207
+  size: 175, 302
+  orig: 175, 302
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Fin1_Left
+  rotate: false
+  xy: 306, 83
+  size: 105, 122
+  orig: 105, 122
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Fin1_Left_Back
+  rotate: false
+  xy: 2, 2
+  size: 27, 27
+  orig: 29, 31
+  offset: 0, 2
+  index: -1
+Nemo_Level6_Fin1_Right_Back
+  rotate: false
+  xy: 31, 2
+  size: 27, 27
+  orig: 29, 31
+  offset: 2, 2
+  index: -1
+Nemo_Level6_Fin2_Right
+  rotate: true
+  xy: 432, 208
+  size: 45, 73
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Fin2_Right_Back
+  rotate: true
+  xy: 466, 469
+  size: 40, 44
+  orig: 43, 47
+  offset: 0, 2
+  index: -1
+Nemo_Level7_Fin1_Left
+  rotate: false
+  xy: 356, 383
+  size: 108, 126
+  orig: 108, 126
+  offset: 0, 0
+  index: -1
+Nemo_Level7_Fin1_Right
+  rotate: false
+  xy: 356, 255
+  size: 108, 126
+  orig: 108, 126
+  offset: 0, 0
+  index: -1
+Nemo_Level7_Fin2_Right
+  rotate: true
+  xy: 356, 208
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Body
+  rotate: false
+  xy: 179, 207
+  size: 175, 302
+  orig: 175, 302
+  offset: 0, 0
+  index: -1
+
+Nemo_Fix_Alllevel4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nemo_Level10_Eyeball_Left
+  rotate: false
+  xy: 432, 296
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level4_Eyeball_Left
+  rotate: false
+  xy: 432, 296
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level5_Eyeball_Left
+  rotate: false
+  xy: 432, 296
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Eyeball_Left
+  rotate: false
+  xy: 432, 296
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level7_Eyeball_Left
+  rotate: false
+  xy: 432, 296
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Eyeball_Left
+  rotate: false
+  xy: 432, 296
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Eyeball_Left
+  rotate: false
+  xy: 432, 296
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level10_Eyeball_Right
+  rotate: false
+  xy: 360, 202
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level4_Eyeball_Right
+  rotate: false
+  xy: 360, 202
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level5_Eyeball_Right
+  rotate: false
+  xy: 360, 202
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Eyeball_Right
+  rotate: false
+  xy: 360, 202
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level7_Eyeball_Right
+  rotate: false
+  xy: 360, 202
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Eyeball_Right
+  rotate: false
+  xy: 360, 202
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Eyeball_Right
+  rotate: false
+  xy: 360, 202
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level10_Fin2_Left_Back
+  rotate: false
+  xy: 432, 357
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+Nemo_Level10_Fin2_Right_Back
+  rotate: true
+  xy: 364, 263
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+Nemo_Level1_Eye_Right
+  rotate: false
+  xy: 2, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+Nemo_Level1_Iris_Right
+  rotate: false
+  xy: 428, 232
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Nemo_Level2_Eyeball_Left
+  rotate: false
+  xy: 178, 208
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Nemo_Level3_Eyeball_Left
+  rotate: false
+  xy: 178, 208
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Nemo_Level2_Eyeball_Right
+  rotate: false
+  xy: 179, 135
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Nemo_Level3_Eyeball_Right
+  rotate: false
+  xy: 179, 135
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Nemo_Level2_Iris_Left
+  rotate: false
+  xy: 252, 148
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Nemo_Level3_Iris_Left
+  rotate: false
+  xy: 252, 148
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Nemo_Level2_Iris_Right
+  rotate: false
+  xy: 306, 189
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Nemo_Level3_Iris_Right
+  rotate: false
+  xy: 306, 189
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Nemo_Level3_Fin2_Left
+  rotate: true
+  xy: 124, 130
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+Nemo_Level3_Fin2_Right
+  rotate: true
+  xy: 90, 15
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+Nemo_Level4_Fin2_Left
+  rotate: true
+  xy: 364, 324
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+Nemo_Level4_Fin2_Right
+  rotate: false
+  xy: 285, 243
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+Nemo_Level5_Fin2_Left
+  rotate: false
+  xy: 285, 311
+  size: 77, 86
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+Nemo_Level5_Fin2_Right
+  rotate: false
+  xy: 397, 421
+  size: 77, 86
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Fin1_Right
+  rotate: false
+  xy: 178, 385
+  size: 105, 122
+  orig: 105, 122
+  offset: 0, 0
+  index: -1
+Nemo_Level6_Tail
+  rotate: false
+  xy: 178, 281
+  size: 105, 102
+  orig: 105, 102
+  offset: 0, 0
+  index: -1
+Nemo_Level7_Body
+  rotate: false
+  xy: 2, 205
+  size: 174, 302
+  orig: 174, 302
+  offset: 0, 0
+  index: -1
+Nemo_Level7_Fin2_Left_Back
+  rotate: false
+  xy: 240, 76
+  size: 50, 57
+  orig: 52, 58
+  offset: 2, 1
+  index: -1
+Nemo_Level7_Fin2_Right_Back
+  rotate: false
+  xy: 259, 17
+  size: 50, 57
+  orig: 52, 58
+  offset: 0, 1
+  index: -1
+Nemo_Level7_Tail
+  rotate: false
+  xy: 285, 399
+  size: 110, 108
+  orig: 110, 114
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Fin2_Left_Back
+  rotate: true
+  xy: 421, 173
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Fin2_Right_Back
+  rotate: true
+  xy: 179, 76
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+Nemo_Level8_Tail
+  rotate: false
+  xy: 2, 90
+  size: 120, 113
+  orig: 120, 113
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Fin2_Left_Back
+  rotate: false
+  xy: 145, 16
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+Nemo_Level9_Fin2_Right_Back
+  rotate: false
+  xy: 202, 16
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1

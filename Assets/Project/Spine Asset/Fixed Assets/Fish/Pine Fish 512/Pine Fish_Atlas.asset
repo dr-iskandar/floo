@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Pine Fish_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 803197001b094d642890f229c361caa4, type: 3}
+  materials:
+  - {fileID: 2100000, guid: c9a448f75366ad44da790433ecf3e14e, type: 2}
+  - {fileID: 2100000, guid: 6d46abb53b8f1f045b0f96758ee10270, type: 2}
+  - {fileID: 2100000, guid: bff13e362fb3b7348991d42b8bcc34db, type: 2}
+  - {fileID: 2100000, guid: 791c00bff49b98d46b01dc63f5acfff3, type: 2}
